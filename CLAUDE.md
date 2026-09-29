@@ -29,8 +29,13 @@ Sækir leiki og úrslit allra liða Selfoss Körfuknattleiksfélags úr mótaker
 - `table.mbt-table.mbt-whitelinks` eru faldar flakk-töflur (listi yfir alla flokka) og innihalda enga leiki. Síðasta taflan er skýringartafla (`MIN – Tími á velli`) og er líka hunsuð.
 - **Bein sókn í BasketHotel borgar sig ekki**: `widget-service/show` skilar JS (`MBT.API.update('...', '<table>...')`) með HTML í escape-uðum streng — ekki JSON. Það þyrfti samt að þátta HTML, og til viðbótar `client_hash` sem lifir stutt. Playwright-leiðin er áfram réttari.
 
+- Vaktin er **staðfest enda á milli**: `github-actions[bot]` skrifaði `data/` 29.09.2026 og skrifréttindin virka. Keyrsla á GitHub tekur um 9–10 mín.
+
 ## Næstu skref
-1. Staðfesta **Settings → Actions → General → Workflow permissions → Read and write** á GitHub; annars fellur commit-skrefið í workflowinu.
+1. Tengja WordPress við `data/allt.json` og aðlaga `wordpress-daemi.php` að reitunum (`dags` á ISO-sniði, `urslit` sem `86 : 62`, `okkarMegin`/`sigur`).
+
+## Prófun á skrifréttindum
+Grænt workflow sannar ekki að commit-skrefið virki — finni skriftan engar breytingar hoppar hún yfir push-ið og verður græn hvort sem er. Til að prófa í alvöru þarf að eyða einni skrá í `data/`, ýta, og keyra svo workflowið handvirkt; þá á `github-actions[bot]` að endurskapa hana og commit-a.
 
 ## Venjur
 - Samskipti og athugasemdir í kóða á íslensku; breytuheiti mega vera á íslensku eins og nú er.
