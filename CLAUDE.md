@@ -16,7 +16,8 @@ Sækir leiki og úrslit allra liða Selfoss Körfuknattleiksfélags úr mótaker
 ## Staða
 - Skriftan hefur verið **keyrð og staðfest á raunverulegu kki.is** (dæmisslóðin, 11. flokkur drengja): 20 leikir allt tímabilið, þar af 2 leiknir.
 - `lid.json` inniheldur bara eitt dæmi. Það þarf að setja inn slóðir fyrir alla flokka félagsins.
-- `.github/workflows/kki-vakt.yml` er **ekki til enn** þótt vísað sé í hana hér að ofan; það þarf að búa hana til.
+- Git-repo er komið upp staðbundið með `.gitignore` og `.github/workflows/kki-vakt.yml`. **Ekki enn ýtt á GitHub** — það vantar remote.
+- `data/daemi-lid-1.json` er dæmisgagn; eyða því þegar raunveruleg lið koma í `lid.json`.
 
 ## Það sem raunverulegt kki.is sýndi
 - **Leikjatöflur hafa engan haus** — engin `<th>` og engin dálkaheiti. Þess vegna gat greining eftir dálkaheitum aldrei virkað og var skipt út fyrir greiningu á innihaldi.
@@ -29,9 +30,10 @@ Sækir leiki og úrslit allra liða Selfoss Körfuknattleiksfélags úr mótaker
 - **Bein sókn í BasketHotel borgar sig ekki**: `widget-service/show` skilar JS (`MBT.API.update('...', '<table>...')`) með HTML í escape-uðum streng — ekki JSON. Það þyrfti samt að þátta HTML, og til viðbótar `client_hash` sem lifir stutt. Playwright-leiðin er áfram réttari.
 
 ## Næstu skref
-1. Setja inn slóðir fyrir alla flokka félagsins í `lid.json`.
-2. Búa til `.github/workflows/kki-vakt.yml` (og `.gitignore` fyrir `node_modules/` og `debug/`).
+1. Stofna repo á GitHub, bæta við remote og ýta (`git push -u origin main`).
+2. Setja inn slóðir fyrir alla flokka félagsins í `lid.json` og eyða `data/daemi-lid-1.json`.
 3. Keyra á fleiri flokkum og staðfesta að greiningin haldi (t.d. meistaraflokkur, þar sem dálkar gætu verið fleiri).
+4. Skipta `NOTANDI` út fyrir raunverulegt GitHub-notandanafn í `README.md` og `wordpress-daemi.php`.
 
 ## Venjur
 - Samskipti og athugasemdir í kóða á íslensku; breytuheiti mega vera á íslensku eins og nú er.
