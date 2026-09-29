@@ -30,9 +30,12 @@ Git-repoið er þegar til staðbundið með fyrstu commit-unum, svo það þarf 
 
 ```bash
 cd selfoss-kki-vakt
-git remote add origin https://github.com/bjorgvinrunar/selfoss-kki-vakt.git
+git remote add origin git@github.com:bjorgvinrunar/selfoss-kki-vakt.git
 git push -u origin main
 ```
+
+> Hér er notast við SSH, því SSH-lykill er þegar uppsettur á vélinni. Með HTTPS
+> (`https://github.com/bjorgvinrunar/selfoss-kki-vakt.git`) þarf *personal access token* í stað lykilorðs.
 
 
 > Ef þú hleður upp í gegnum vefinn í staðinn („uploading an existing file“): passaðu að `.github`-mappan fari með, því hún er falin. Á Mac sérðu hana með **Cmd+Shift+.** í Finder. Í Windows velurðu **View → Show → Hidden items** í File Explorer.
