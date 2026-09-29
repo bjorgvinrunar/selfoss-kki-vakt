@@ -1,0 +1,74 @@
+name: KKÍ vakt
+
+on:
+  schedule:
+    # Tímarnir eru í UTC, sem er sami tími og á Íslandi allt árið.
+    - cron: '*/15 17-23 * * *'   # á 15 mín fresti kl. 17–23, þegar flestir leikir eru
+    - cron: '0 8-16 * * *'       # á klst. fresti kl. 8–16, fyrir yngri flokka mót
+  workflow_dispatch:             # svo hægt sé að ræsa handvirkt úr Actions-flipanum
+
+permissions:
+  contents: write                # þarf til að commit-a data/ aftur í repoið
+
+# Aðeins ein keyrsla í einu — kurteisi við kki.is og kemur í veg fyrir árekstra við push.
+concurrency:
+  group: kki-vakt
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci
+
+      # Chromium er ~150 MB; geymum hann milli keyrslna svo þær taki styttri tíma.
+      - name: Sækja Chromium úr skyndiminni
+        id: pw-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+
+      - name: Setja upp Chromium
+        if: steps.pw-cache.outputs.cache-hit != 'true'
+        run: npx playwright install --with-deps chromium
+
+      - name: Setja upp kerfisskrár fyrir Chromium
+        if: steps.pw-cache.outputs.cache-hit == 'true'
+        run: npx playwright install-deps chromium
+
+      - name: Sækja gögn frá KKÍ
+        run: node scrape.js
+
+      # Alltaf hlaðið upp, líka þegar skriftan fellur — þá eru skjáskotin það sem segir af hverju.
+      - name: Geyma greiningargögn
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug
+          path: debug/
+          retention-days: 3
+          if-no-files-found: ignore
+
+      - name: Commit-a breytt gögn
+        run: |
+          if [ -z "$(git status --porcelain data)" ]; then
+            echo "Engin breyting á gögnum — ekkert commit."
+            exit 0
+          fi
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data
+          git commit -m 'Uppfæra gögn frá KKÍ'
+          # Ef einhver hefur pushað á meðan keyrslan stóð yfir
+          git pull --rebase --autostash
+          git push

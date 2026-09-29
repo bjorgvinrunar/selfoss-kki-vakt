@@ -1,0 +1,6 @@
+node_modules/
+
+# Greiningargögn úr keyrslu — fara sem artifact í GitHub Actions, ekki í repoið
+debug/
+
+.DS_Store

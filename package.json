@@ -1,0 +1,13 @@
+{
+  "name": "selfoss-kki-vakt",
+  "version": "0.1.1",
+  "private": true,
+  "description": "Vaktar leiki og úrslit liða Selfoss í mótakerfi KKÍ og vistar sem JSON",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "dependencies": {
+    "playwright": "1.63.0"
+  }
+}
