@@ -26,18 +26,14 @@ selfoss-kki-vakt/
 
 ## Skref 2 — Setja kóðann inn
 
-Pakkaðu zip-skránni upp og keyrðu í terminal:
+Git-repoið er þegar til staðbundið með fyrstu commit-unum, svo það þarf bara að tengja það við GitHub og ýta:
 
 ```bash
 cd selfoss-kki-vakt
-git init -b main
-git add .
-git commit -m "Fyrsta útgáfa"
-git remote add origin https://github.com/NOTANDI/selfoss-kki-vakt.git
+git remote add origin https://github.com/bjorgvinrunar/selfoss-kki-vakt.git
 git push -u origin main
 ```
 
-(Skiptu `NOTANDI` út fyrir GitHub-notandanafnið þitt.)
 
 > Ef þú hleður upp í gegnum vefinn í staðinn („uploading an existing file“): passaðu að `.github`-mappan fari með, því hún er falin. Á Mac sérðu hana með **Cmd+Shift+.** í Finder. Í Windows velurðu **View → Show → Hidden items** í File Explorer.
 
@@ -118,7 +114,7 @@ Lið sem mistekst heldur síðustu góðu gögnunum sínum. Þau eyðast aldrei 
 JSON-skráin er aðgengileg á:
 
 ```
-https://raw.githubusercontent.com/NOTANDI/selfoss-kki-vakt/main/data/allt.json
+https://raw.githubusercontent.com/bjorgvinrunar/selfoss-kki-vakt/main/data/allt.json
 ```
 
 `wordpress-daemi.php` sýnir hvernig á að sækja hana:

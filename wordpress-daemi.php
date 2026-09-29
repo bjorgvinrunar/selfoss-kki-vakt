@@ -1,12 +1,12 @@
 <?php
 /**
  * Dæmi: sækja gögnin frá GitHub inn í WordPress og birta með shortcode.
- * Settu þetta í viðbótina þína (eða functions.php) og breyttu NOTANDI í GitHub-notandanafnið þitt.
+ * Settu þetta í viðbótina þína (eða functions.php) og slóðin vísar á bjorgvinrunar/selfoss-kki-vakt.
  *
  * Notkun:  [selfoss_leikir lid="mfl-karla"]
  */
 
-define('SELFOSS_KKI_JSON', 'https://raw.githubusercontent.com/NOTANDI/selfoss-kki-vakt/main/data/allt.json');
+define('SELFOSS_KKI_JSON', 'https://raw.githubusercontent.com/bjorgvinrunar/selfoss-kki-vakt/main/data/allt.json');
 
 function selfoss_kki_gogn() {
     $gogn = get_transient('selfoss_kki_gogn');
