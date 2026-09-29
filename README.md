@@ -160,8 +160,10 @@ Hver leikur í `lid[].leikir`:
 | `okkarStig`, `andstaedingsStig` | `88`, `86` | aðeins ef leik er lokið |
 | `sigur` | `true` | aðeins ef leik er lokið |
 
-Leikirnir eru raðaðir eftir dagsetningu og ná yfir **allt tímabilið** (skriftan víkkar
-mánaðarsíu widgetsins, sem sýnir annars bara yfirstandandi mánuð).
+Leikirnir eru raðaðir eftir dagsetningu og ná yfir **allt tímabilið**. Widgetið á kki.is
+sýnir sjálfgefið bara yfirstandandi mánuð og aldrei nema 20 leiki í einu, svo skriftan
+víkkar mánaðarsíuna í „Allir mánuðir“ og flettir gegnum allar síður. Slóðin breytist ekki
+við flettingu, svo það sést ekki á henni hvort lið er með fleiri en eina síðu.
 
 Töflurnar á kki.is hafa engan haus, svo dálkar eru þekktir á innihaldi reitanna
 (dagsetning, `team_id`-tengill, skor `86 : 62`) en ekki á dálkaheitum. Breytist röð

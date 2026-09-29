@@ -17,6 +17,7 @@ const EINUNGIS = process.env.EINUNGIS || '';        // EINUNGIS=slug keyrir bara
 const BID_MILLI_SIDNA_MS = 2500;                    // kurteisi við kki.is
 const HLEDSLA_TIMEOUT_MS = 60_000;
 const TOFLU_TIMEOUT_MS = 30_000;
+const MAX_SIDUR = 30;                               // öryggisventill á flettingu
 
 // ---------- hjálparföll ----------
 
@@ -227,6 +228,33 @@ function stilltuSiurIVafra() {
   return breytt;
 }
 
+// Keyrt inni í vafranum: finnur síðutölur flettarans.
+// Widgetið sýnir aðeins 20 leiki í einu og setur afganginn á síðu 2, 3 …
+// Síðutenglarnir hafa id á borð við "6-200-page-2"; núverandi síða er <strong> án id.
+function finnSidurIVafra() {
+  const tolur = new Set();
+  for (const e of document.querySelectorAll('[id]')) {
+    const m = /-page-(\d+)$/.exec(e.id);
+    if (m) tolur.add(Number(m[1]));
+  }
+  return [...tolur].sort((a, b) => a - b);
+}
+
+// Keyrt inni í vafranum: flettir á tiltekna síðu.
+function faraASiduIVafra(n) {
+  if (typeof window.changeScheduleAndResultsPage === 'function') {
+    window.changeScheduleAndResultsPage(n);
+    return true;
+  }
+  // Varaleið ef BasketHotel endurnefnir fallið
+  const hnappur = [...document.querySelectorAll('[id]')].find((e) => e.id.endsWith(`-page-${n}`));
+  if (hnappur) {
+    hnappur.click();
+    return true;
+  }
+  return false;
+}
+
 // ---------- ein liðssíða ----------
 
 async function sokjaLid(context, lid) {
@@ -284,6 +312,34 @@ async function sokjaLid(context, lid) {
       await sleep(1500); // widgetið endurteiknar töfluna eftir svarið
       const vidari = await lesAllaRamma();
       if (vidari.length > 0) toflur = vidari;
+    }
+
+    // Fletta gegnum allar síður flettarans — widgetið sýnir bara 20 leiki í einu.
+    const heimsottar = new Set([1]);
+    for (let vorn = 0; vorn < MAX_SIDUR; vorn++) {
+      let naesta = null;
+      let rammi = null;
+      for (const frame of page.frames()) {
+        try {
+          const oheimsott = (await frame.evaluate(finnSidurIVafra)).find((s) => !heimsottar.has(s));
+          if (oheimsott) {
+            naesta = oheimsott;
+            rammi = frame;
+            break;
+          }
+        } catch {
+          /* rammi sem ekki er hægt að lesa */
+        }
+      }
+      if (naesta === null) break;
+
+      heimsottar.add(naesta);
+      const tokst = await rammi.evaluate(faraASiduIVafra, naesta).catch(() => false);
+      if (!tokst) break;
+
+      await page.waitForLoadState('networkidle', { timeout: TOFLU_TIMEOUT_MS }).catch(() => {});
+      await sleep(1200); // widgetið endurteiknar töfluna eftir svarið
+      toflur.push(...(await lesAllaRamma()));
     }
 
     await fs.mkdir(DEBUG_DIR, { recursive: true });

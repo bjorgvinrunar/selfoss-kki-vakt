@@ -1,6 +1,6 @@
 {
-  "slug": "daemi-lid-1",
-  "nafn": "Dæmi — breyttu í nafn flokksins",
+  "slug": "11-flokkur-drengja",
+  "nafn": "11. flokkur drengja",
   "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=195&season_id=132629&team_id=4749663#mbt:6-200$t&0=1:6-500$t&0=1",
   "lidId": "4749663",
   "mot": "11. flokkur drengja ( Deildarkeppni yngri flokka, 2026-2027 Tímabil)",
@@ -370,7 +370,25 @@
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=195&season_id=132629&game_id=6156462",
       "okkarMegin": "gestir",
       "andstaedingur": "Afturelding/Skallagrímur/Reykdælir 11.fl.dr."
+    },
+    {
+      "leikId": "6156465",
+      "dags": "2027-04-12",
+      "timi": "20:30",
+      "iso": "2027-04-12T20:30:00+00:00",
+      "heima": "Selfoss 11.fl.dr.",
+      "heimaId": "4749663",
+      "gestir": "ÍA 11.fl.dr.",
+      "gestaId": "2444",
+      "urslit": "",
+      "heimaStig": null,
+      "gestaStig": null,
+      "leikinn": false,
+      "vollur": "Vallaskóli",
+      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=195&season_id=132629&game_id=6156465",
+      "okkarMegin": "heima",
+      "andstaedingur": "ÍA 11.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-09-29T17:54:31.079Z"
+  "sidastBreytt": "2026-09-29T18:58:41.158Z"
 }

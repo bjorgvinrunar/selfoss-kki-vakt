@@ -3,9 +3,54 @@
   "timabil": "2026-2027",
   "lid": [
     {
-      "slug": "daemi-lid-1",
-      "nafn": "Dæmi — breyttu í nafn flokksins",
+      "slug": "mfl-karla",
+      "nafn": "Meistaraflokkur karla",
+      "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=191&season_id=132571&team_id=4695391#mbt:6-200$t&0=1"
+    },
+    {
+      "slug": "mfl-kvenna",
+      "nafn": "Meistaraflokkur kvenna",
+      "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=231&season_id=132570&team_id=4765539#mbt:6-200$t&0=1"
+    },
+    {
+      "slug": "selfoss-u",
+      "nafn": "Selfoss U",
+      "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=232&season_id=132677&team_id=4772377#mbt:6-200$t&0=1"
+    },
+    {
+      "slug": "12-flokkur-karla",
+      "nafn": "12. flokkur karla",
+      "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=192&season_id=132630&team_id=4749665#mbt:6-200$t&0=1:6-500$t&0=1"
+    },
+    {
+      "slug": "11-flokkur-drengja",
+      "nafn": "11. flokkur drengja",
       "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=195&season_id=132629&team_id=4749663#mbt:6-200$t&0=1:6-500$t&0=1"
+    },
+    {
+      "slug": "10-flokkur-stulkna",
+      "nafn": "10. flokkur stúlkna",
+      "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=193&season_id=132628&team_id=4772386#mbt:6-200$t&0=1:6-500$t&0=1"
+    },
+    {
+      "slug": "10-flokkur-drengja",
+      "nafn": "10. flokkur drengja",
+      "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=196&season_id=132627&team_id=4735179#mbt:6-200$t&0=1:6-500$t&0=1"
+    },
+    {
+      "slug": "9-flokkur-stulkna",
+      "nafn": "9. flokkur stúlkna",
+      "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=198&season_id=132626&team_id=4702567#mbt:6-200$t&0=1:6-500$t&0=1"
+    },
+    {
+      "slug": "9-flokkur-drengja",
+      "nafn": "9. flokkur drengja",
+      "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=197&season_id=132625&team_id=4749736#mbt:6-200$t&0=1:6-500$t&0=1"
+    },
+    {
+      "slug": "9-flokkur-drengja-b",
+      "nafn": "9. flokkur drengja b",
+      "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=197&season_id=132625&team_id=4725337#mbt:6-200$t&0=1:6-500$t&0=1"
     }
   ]
 }
