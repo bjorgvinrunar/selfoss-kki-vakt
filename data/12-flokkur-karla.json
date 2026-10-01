@@ -77,14 +77,17 @@
       "heimaId": "4749830",
       "gestir": "Selfoss/Laugdælir 12.fl.kk.",
       "gestaId": "4749665",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "103 : 85",
+      "heimaStig": 103,
+      "gestaStig": 85,
+      "leikinn": true,
       "vollur": "Smárinn",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159741",
       "okkarMegin": "gestir",
-      "andstaedingur": "Breiðablik/Augnablik 12.fl.kk."
+      "andstaedingur": "Breiðablik/Augnablik 12.fl.kk.",
+      "okkarStig": 85,
+      "andstaedingsStig": 103,
+      "sigur": false
     },
     {
       "leikId": "6159745",
@@ -375,5 +378,5 @@
       "andstaedingur": "KR/KV 12.fl.kk."
     }
   ],
-  "sidastBreytt": "2026-09-29T18:57:35.633Z"
+  "sidastBreytt": "2026-10-01T00:51:11.618Z"
 }
