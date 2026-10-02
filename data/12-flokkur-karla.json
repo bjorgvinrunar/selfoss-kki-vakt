@@ -181,9 +181,9 @@
     },
     {
       "leikId": "6159774",
-      "dags": "2026-12-17",
-      "timi": "20:15",
-      "iso": "2026-12-17T20:15:00+00:00",
+      "dags": "2026-11-28",
+      "timi": "17:00",
+      "iso": "2026-11-28T17:00:00+00:00",
       "heima": "KR/KV 12.fl.kk.",
       "heimaId": "4749917",
       "gestir": "Selfoss/Laugdælir 12.fl.kk.",
@@ -378,5 +378,5 @@
       "andstaedingur": "KR/KV 12.fl.kk."
     }
   ],
-  "sidastBreytt": "2026-10-01T00:51:11.618Z"
+  "sidastBreytt": "2026-10-02T14:36:23.165Z"
 }

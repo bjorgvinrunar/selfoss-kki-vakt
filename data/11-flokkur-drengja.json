@@ -56,17 +56,17 @@
       "heimaId": "4749405",
       "gestir": "Selfoss 11.fl.dr.",
       "gestaId": "4749663",
-      "urslit": "76 : 22",
-      "heimaStig": 76,
-      "gestaStig": 22,
+      "urslit": "68 : 119",
+      "heimaStig": 68,
+      "gestaStig": 119,
       "leikinn": true,
       "vollur": "ÞG Verk höllin",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=195&season_id=132629&game_id=6156397",
       "okkarMegin": "gestir",
       "andstaedingur": "Stjarnan/KFG b 11.fl.dr.",
-      "okkarStig": 22,
-      "andstaedingsStig": 76,
-      "sigur": false
+      "okkarStig": 119,
+      "andstaedingsStig": 68,
+      "sigur": true
     },
     {
       "leikId": "6156402",
@@ -393,5 +393,5 @@
       "andstaedingur": "ÍA 11.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-10-01T00:52:25.415Z"
+  "sidastBreytt": "2026-10-02T14:37:37.195Z"
 }
