@@ -14,14 +14,17 @@
       "heimaId": "4760778",
       "gestir": "Selfoss",
       "gestaId": "4695391",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "106 : 77",
+      "heimaStig": 106,
+      "gestaStig": 77,
+      "leikinn": true,
       "vollur": "AvAir höllin",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6153931",
       "okkarMegin": "gestir",
-      "andstaedingur": "ÍA"
+      "andstaedingur": "ÍA",
+      "okkarStig": 77,
+      "andstaedingsStig": 106,
+      "sigur": false
     },
     {
       "leikId": "6153938",
@@ -402,5 +405,5 @@
       "andstaedingur": "KV"
     }
   ],
-  "sidastBreytt": "2026-09-29T18:56:01.611Z"
+  "sidastBreytt": "2026-10-02T21:16:38.027Z"
 }
