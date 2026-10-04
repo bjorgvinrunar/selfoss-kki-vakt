@@ -77,14 +77,17 @@
       "heimaId": "4749754",
       "gestir": "Laugdælir/Selfoss b 9.fl.dr.",
       "gestaId": "4725337",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "84 : 28",
+      "heimaStig": 84,
+      "gestaStig": 28,
+      "leikinn": true,
       "vollur": "Dalhús",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6159033",
       "okkarMegin": "gestir",
-      "andstaedingur": "Fjölnir 9.fl.dr."
+      "andstaedingur": "Fjölnir 9.fl.dr.",
+      "okkarStig": 28,
+      "andstaedingsStig": 84,
+      "sigur": false
     },
     {
       "leikId": "6159050",
@@ -303,5 +306,5 @@
       "andstaedingur": "Breiðablik b 9.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-09-29T19:22:55.828Z"
+  "sidastBreytt": "2026-10-04T18:10:59.080Z"
 }
