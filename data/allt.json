@@ -2692,14 +2692,17 @@
           "heimaId": "4749713",
           "gestir": "Selfoss 9. fl. st.",
           "gestaId": "4702567",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "59 : 41",
+          "heimaStig": 59,
+          "gestaStig": 41,
+          "leikinn": true,
           "vollur": "Ljónagryfjan",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=198&season_id=132626&game_id=6156578",
           "okkarMegin": "gestir",
-          "andstaedingur": "Njarðvík 9.fl.st."
+          "andstaedingur": "Njarðvík 9.fl.st.",
+          "okkarStig": 41,
+          "andstaedingsStig": 59,
+          "sigur": false
         },
         {
           "leikId": "6156579",
@@ -2972,7 +2975,7 @@
           "andstaedingur": "Haukar 9.fl.st."
         }
       ],
-      "sidastBreytt": "2026-09-29T19:00:15.239Z"
+      "sidastBreytt": "2026-10-04T13:55:00.112Z"
     },
     {
       "slug": "9-flokkur-drengja",
@@ -3622,5 +3625,5 @@
       "sidastBreytt": "2026-09-29T19:22:55.828Z"
     }
   ],
-  "sidastBreytt": "2026-10-03T22:37:08.380Z"
+  "sidastBreytt": "2026-10-04T13:56:14.909Z"
 }
