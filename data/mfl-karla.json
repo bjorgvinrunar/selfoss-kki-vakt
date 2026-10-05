@@ -27,21 +27,21 @@
       "sigur": false
     },
     {
-      "leikId": "6153938",
+      "leikId": "6154004",
       "dags": "2026-10-08",
       "timi": "19:15",
       "iso": "2026-10-08T19:15:00+00:00",
-      "heima": "Haukar",
-      "heimaId": "4760732",
-      "gestir": "Selfoss",
-      "gestaId": "4695391",
+      "heima": "Selfoss",
+      "heimaId": "4695391",
+      "gestir": "Haukar",
+      "gestaId": "4760732",
       "urslit": "",
       "heimaStig": null,
       "gestaStig": null,
       "leikinn": false,
-      "vollur": "Ásvellir",
-      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6153938",
-      "okkarMegin": "gestir",
+      "vollur": "Vallaskóli",
+      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6154004",
+      "okkarMegin": "heima",
       "andstaedingur": "Haukar"
     },
     {
@@ -225,21 +225,21 @@
       "andstaedingur": "ÍA"
     },
     {
-      "leikId": "6154004",
+      "leikId": "6153938",
       "dags": "2027-01-08",
       "timi": "19:15",
       "iso": "2027-01-08T19:15:00+00:00",
-      "heima": "Selfoss",
-      "heimaId": "4695391",
-      "gestir": "Haukar",
-      "gestaId": "4760732",
+      "heima": "Haukar",
+      "heimaId": "4760732",
+      "gestir": "Selfoss",
+      "gestaId": "4695391",
       "urslit": "",
       "heimaStig": null,
       "gestaStig": null,
       "leikinn": false,
-      "vollur": "Vallaskóli",
-      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6154004",
-      "okkarMegin": "heima",
+      "vollur": "Ásvellir",
+      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6153938",
+      "okkarMegin": "gestir",
       "andstaedingur": "Haukar"
     },
     {
@@ -405,5 +405,5 @@
       "andstaedingur": "KV"
     }
   ],
-  "sidastBreytt": "2026-10-02T21:16:38.027Z"
+  "sidastBreytt": "2026-10-05T16:55:42.129Z"
 }
