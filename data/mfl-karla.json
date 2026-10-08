@@ -35,14 +35,17 @@
       "heimaId": "4695391",
       "gestir": "Haukar",
       "gestaId": "4760732",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "95 : 103",
+      "heimaStig": 95,
+      "gestaStig": 103,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6154004",
       "okkarMegin": "heima",
-      "andstaedingur": "Haukar"
+      "andstaedingur": "Haukar",
+      "okkarStig": 95,
+      "andstaedingsStig": 103,
+      "sigur": false
     },
     {
       "leikId": "6153943",
@@ -405,5 +408,5 @@
       "andstaedingur": "KV"
     }
   ],
-  "sidastBreytt": "2026-10-05T16:55:42.129Z"
+  "sidastBreytt": "2026-10-08T21:07:52.955Z"
 }
