@@ -110,8 +110,8 @@
     {
       "leikId": "6159056",
       "dags": "2026-11-01",
-      "timi": "17:30",
-      "iso": "2026-11-01T17:30:00+00:00",
+      "timi": "17:15",
+      "iso": "2026-11-01T17:15:00+00:00",
       "heima": "Stjarnan c 9.fl.dr.",
       "heimaId": "4725219",
       "gestir": "Laugdælir/Selfoss b 9.fl.dr.",
@@ -306,5 +306,5 @@
       "andstaedingur": "Breiðablik b 9.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-10-04T18:10:59.080Z"
+  "sidastBreytt": "2026-10-09T15:12:22.221Z"
 }
