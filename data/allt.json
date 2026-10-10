@@ -451,14 +451,17 @@
           "heimaId": "4760790",
           "gestir": "Selfoss",
           "gestaId": "4765539",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "84 : 86",
+          "heimaStig": 84,
+          "gestaStig": 86,
+          "leikinn": true,
           "vollur": "Icelandic Glacial höllin",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=231&season_id=132570&game_id=6156175",
           "okkarMegin": "gestir",
-          "andstaedingur": "Þór Þ."
+          "andstaedingur": "Þór Þ.",
+          "okkarStig": 86,
+          "andstaedingsStig": 84,
+          "sigur": true
         },
         {
           "leikId": "6156182",
@@ -785,7 +788,7 @@
           "andstaedingur": "Aþena"
         }
       ],
-      "sidastBreytt": "2026-10-08T15:21:25.243Z"
+      "sidastBreytt": "2026-10-10T19:11:49.774Z"
     },
     {
       "slug": "selfoss-u",
@@ -3634,5 +3637,5 @@
       "sidastBreytt": "2026-10-09T15:12:22.221Z"
     }
   ],
-  "sidastBreytt": "2026-10-09T15:12:22.273Z"
+  "sidastBreytt": "2026-10-10T19:18:47.599Z"
 }
