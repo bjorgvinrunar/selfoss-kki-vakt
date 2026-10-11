@@ -56,14 +56,17 @@
       "heimaId": "4735127",
       "gestir": "Selfoss 10.fl.st.",
       "gestaId": "4772386",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "26 : 96",
+      "heimaStig": 26,
+      "gestaStig": 96,
+      "leikinn": true,
       "vollur": "Dalhús",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=193&season_id=132628&game_id=6157604",
       "okkarMegin": "gestir",
-      "andstaedingur": "ÍR/Fjölnir 10.fl.st."
+      "andstaedingur": "ÍR/Fjölnir 10.fl.st.",
+      "okkarStig": 96,
+      "andstaedingsStig": 26,
+      "sigur": true
     },
     {
       "leikId": "6157612",
@@ -372,5 +375,5 @@
       "andstaedingur": "Keflavík 10.fl.st."
     }
   ],
-  "sidastBreytt": "2026-09-29T18:58:55.444Z"
+  "sidastBreytt": "2026-10-11T19:29:06.743Z"
 }

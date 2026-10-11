@@ -56,14 +56,17 @@
       "heimaId": "4735179",
       "gestir": "Ármann 10.fl.dr.",
       "gestaId": "4749793",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "56 : 90",
+      "heimaStig": 56,
+      "gestaStig": 90,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=196&season_id=132627&game_id=6157799",
       "okkarMegin": "heima",
-      "andstaedingur": "Ármann 10.fl.dr."
+      "andstaedingur": "Ármann 10.fl.dr.",
+      "okkarStig": 56,
+      "andstaedingsStig": 90,
+      "sigur": false
     },
     {
       "leikId": "6157806",
@@ -390,5 +393,5 @@
       "andstaedingur": "Hamar/Þór Þ. 10.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-09-29T19:00:00.957Z"
+  "sidastBreytt": "2026-10-11T19:30:19.524Z"
 }

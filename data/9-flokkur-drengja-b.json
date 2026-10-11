@@ -98,14 +98,17 @@
       "heimaId": "4725337",
       "gestir": "Höttur b 9.fl.dr.",
       "gestaId": "4779063",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "32 : 48",
+      "heimaStig": 32,
+      "gestaStig": 48,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6159050",
       "okkarMegin": "heima",
-      "andstaedingur": "Höttur b 9.fl.dr."
+      "andstaedingur": "Höttur b 9.fl.dr.",
+      "okkarStig": 32,
+      "andstaedingsStig": 48,
+      "sigur": false
     },
     {
       "leikId": "6159056",
@@ -306,5 +309,5 @@
       "andstaedingur": "Breiðablik b 9.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-10-09T15:12:22.221Z"
+  "sidastBreytt": "2026-10-11T19:32:39.117Z"
 }
