@@ -77,14 +77,17 @@
       "heimaId": "4749663",
       "gestir": "Breiðablik/Augnablik b 11.fl.dr.",
       "gestaId": "4765363",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "105 : 71",
+      "heimaStig": 105,
+      "gestaStig": 71,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=195&season_id=132629&game_id=6156402",
       "okkarMegin": "heima",
-      "andstaedingur": "Breiðablik/Augnablik b 11.fl.dr."
+      "andstaedingur": "Breiðablik/Augnablik b 11.fl.dr.",
+      "okkarStig": 105,
+      "andstaedingsStig": 71,
+      "sigur": true
     },
     {
       "leikId": "6156406",
@@ -393,5 +396,5 @@
       "andstaedingur": "ÍA 11.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-10-02T14:37:37.195Z"
+  "sidastBreytt": "2026-10-12T23:38:37.333Z"
 }
