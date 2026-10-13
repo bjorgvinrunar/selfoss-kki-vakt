@@ -3074,14 +3074,17 @@
           "heimaId": "4749736",
           "gestir": "Sindri 9.fl.dr.",
           "gestaId": "4749739",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "55 : 69",
+          "heimaStig": 55,
+          "gestaStig": 69,
+          "leikinn": true,
           "vollur": "Laugarvatn",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6156984",
           "okkarMegin": "heima",
-          "andstaedingur": "Sindri 9.fl.dr."
+          "andstaedingur": "Sindri 9.fl.dr.",
+          "okkarStig": 55,
+          "andstaedingsStig": 69,
+          "sigur": false
         },
         {
           "leikId": "6156988",
@@ -3336,7 +3339,7 @@
           "andstaedingur": "Valur 9.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-10-13T15:48:33.386Z"
+      "sidastBreytt": "2026-10-13T21:10:45.688Z"
     },
     {
       "slug": "9-flokkur-drengja-b",
@@ -3652,5 +3655,5 @@
       "sidastBreytt": "2026-10-11T19:32:39.117Z"
     }
   ],
-  "sidastBreytt": "2026-10-13T15:49:14.486Z"
+  "sidastBreytt": "2026-10-13T21:11:27.168Z"
 }
