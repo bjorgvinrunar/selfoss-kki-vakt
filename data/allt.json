@@ -3053,14 +3053,17 @@
           "heimaId": "4749736",
           "gestir": "Höttur 9.fl.dr.",
           "gestaId": "4749727",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "61 : 76",
+          "heimaStig": 61,
+          "gestaStig": 76,
+          "leikinn": true,
           "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6157004",
           "okkarMegin": "heima",
-          "andstaedingur": "Höttur 9.fl.dr."
+          "andstaedingur": "Höttur 9.fl.dr.",
+          "okkarStig": 61,
+          "andstaedingsStig": 76,
+          "sigur": false
         },
         {
           "leikId": "6156984",
@@ -3333,7 +3336,7 @@
           "andstaedingur": "Valur 9.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-09-29T19:01:19.510Z"
+      "sidastBreytt": "2026-10-13T15:48:33.386Z"
     },
     {
       "slug": "9-flokkur-drengja-b",
@@ -3649,5 +3652,5 @@
       "sidastBreytt": "2026-10-11T19:32:39.117Z"
     }
   ],
-  "sidastBreytt": "2026-10-12T23:43:17.012Z"
+  "sidastBreytt": "2026-10-13T15:49:14.486Z"
 }
