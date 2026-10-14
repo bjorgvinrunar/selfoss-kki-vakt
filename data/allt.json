@@ -472,14 +472,17 @@
           "heimaId": "4765539",
           "gestir": "Skallagrímur",
           "gestaId": "1875",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "93 : 71",
+          "heimaStig": 93,
+          "gestaStig": 71,
+          "leikinn": true,
           "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=231&season_id=132570&game_id=6156182",
           "okkarMegin": "heima",
-          "andstaedingur": "Skallagrímur"
+          "andstaedingur": "Skallagrímur",
+          "okkarStig": 93,
+          "andstaedingsStig": 71,
+          "sigur": true
         },
         {
           "leikId": "6156188",
@@ -788,7 +791,7 @@
           "andstaedingur": "Aþena"
         }
       ],
-      "sidastBreytt": "2026-10-10T19:11:49.774Z"
+      "sidastBreytt": "2026-10-14T23:30:57.469Z"
     },
     {
       "slug": "selfoss-u",
@@ -3658,5 +3661,5 @@
       "sidastBreytt": "2026-10-11T19:32:39.117Z"
     }
   ],
-  "sidastBreytt": "2026-10-14T13:33:51.547Z"
+  "sidastBreytt": "2026-10-14T23:37:55.287Z"
 }
