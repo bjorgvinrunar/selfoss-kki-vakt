@@ -69,24 +69,6 @@
       "sigur": false
     },
     {
-      "leikId": "6157808",
-      "dags": "2026-10-31",
-      "timi": "16:00",
-      "iso": "2026-10-31T16:00:00+00:00",
-      "heima": "Hamar/Þór Þ. 10.fl.dr.",
-      "heimaId": "4749858",
-      "gestir": "Selfoss/Laugdælir 10.fl.dr.",
-      "gestaId": "4735179",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
-      "vollur": "Hveragerði",
-      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=196&season_id=132627&game_id=6157808",
-      "okkarMegin": "gestir",
-      "andstaedingur": "Hamar/Þór Þ. 10.fl.dr."
-    },
-    {
       "leikId": "6157826",
       "dags": "2026-11-01",
       "timi": "13:45",
@@ -103,6 +85,24 @@
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=196&season_id=132627&game_id=6157826",
       "okkarMegin": "heima",
       "andstaedingur": "Sindri/Máni 10.fl.dr."
+    },
+    {
+      "leikId": "6157808",
+      "dags": "2026-11-12",
+      "timi": "20:00",
+      "iso": "2026-11-12T20:00:00+00:00",
+      "heima": "Hamar/Þór Þ. 10.fl.dr.",
+      "heimaId": "4749858",
+      "gestir": "Selfoss/Laugdælir 10.fl.dr.",
+      "gestaId": "4735179",
+      "urslit": "",
+      "heimaStig": null,
+      "gestaStig": null,
+      "leikinn": false,
+      "vollur": "Hveragerði",
+      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=196&season_id=132627&game_id=6157808",
+      "okkarMegin": "gestir",
+      "andstaedingur": "Hamar/Þór Þ. 10.fl.dr."
     },
     {
       "leikId": "6157792",
@@ -393,5 +393,5 @@
       "andstaedingur": "Hamar/Þór Þ. 10.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-10-15T13:17:14.801Z"
+  "sidastBreytt": "2026-10-15T18:12:06.131Z"
 }
