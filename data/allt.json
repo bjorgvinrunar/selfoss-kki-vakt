@@ -60,14 +60,17 @@
           "heimaId": "4695391",
           "gestir": "Skallagrímur",
           "gestaId": "4760772",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "86 : 69",
+          "heimaStig": 86,
+          "gestaStig": 69,
+          "leikinn": true,
           "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6153943",
           "okkarMegin": "heima",
-          "andstaedingur": "Skallagrímur"
+          "andstaedingur": "Skallagrímur",
+          "okkarStig": 86,
+          "andstaedingsStig": 69,
+          "sigur": true
         },
         {
           "leikId": "6153945",
@@ -412,7 +415,7 @@
           "andstaedingur": "KV"
         }
       ],
-      "sidastBreytt": "2026-10-08T21:07:52.955Z"
+      "sidastBreytt": "2026-10-15T23:08:24.972Z"
     },
     {
       "slug": "mfl-kvenna",
@@ -3661,5 +3664,5 @@
       "sidastBreytt": "2026-10-11T19:32:39.117Z"
     }
   ],
-  "sidastBreytt": "2026-10-15T18:14:25.755Z"
+  "sidastBreytt": "2026-10-15T23:16:07.191Z"
 }
