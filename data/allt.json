@@ -504,9 +504,9 @@
         },
         {
           "leikId": "6156193",
-          "dags": "2026-10-31",
-          "timi": "18:00",
-          "iso": "2026-10-31T18:00:00+00:00",
+          "dags": "2026-10-30",
+          "timi": "19:15",
+          "iso": "2026-10-30T19:15:00+00:00",
           "heima": "Selfoss",
           "heimaId": "4765539",
           "gestir": "ÍR",
@@ -791,7 +791,7 @@
           "andstaedingur": "Aþena"
         }
       ],
-      "sidastBreytt": "2026-10-14T23:30:57.469Z"
+      "sidastBreytt": "2026-10-15T13:12:36.611Z"
     },
     {
       "slug": "selfoss-u",
@@ -1210,24 +1210,6 @@
           "sigur": true
         },
         {
-          "leikId": "6159752",
-          "dags": "2026-10-25",
-          "timi": "15:00",
-          "iso": "2026-10-25T15:00:00+00:00",
-          "heima": "Þór Ak. 12.fl.kk",
-          "heimaId": "4649835",
-          "gestir": "Selfoss/Laugdælir 12.fl.kk.",
-          "gestaId": "4749665",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
-          "vollur": "Glerárskóli",
-          "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159752",
-          "okkarMegin": "gestir",
-          "andstaedingur": "Þór Ak. 12.fl.kk"
-        },
-        {
           "leikId": "6159754",
           "dags": "2026-10-27",
           "timi": "19:30",
@@ -1298,6 +1280,24 @@
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159774",
           "okkarMegin": "gestir",
           "andstaedingur": "KR/KV 12.fl.kk."
+        },
+        {
+          "leikId": "6159752",
+          "dags": "2026-12-13",
+          "timi": "13:45",
+          "iso": "2026-12-13T13:45:00+00:00",
+          "heima": "Þór Ak. 12.fl.kk",
+          "heimaId": "4649835",
+          "gestir": "Selfoss/Laugdælir 12.fl.kk.",
+          "gestaId": "4749665",
+          "urslit": "",
+          "heimaStig": null,
+          "gestaStig": null,
+          "leikinn": false,
+          "vollur": "Glerárskóli",
+          "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159752",
+          "okkarMegin": "gestir",
+          "andstaedingur": "Þór Ak. 12.fl.kk"
         },
         {
           "leikId": "6159782",
@@ -1480,7 +1480,7 @@
           "andstaedingur": "KR/KV 12.fl.kk."
         }
       ],
-      "sidastBreytt": "2026-10-14T13:29:03.385Z"
+      "sidastBreytt": "2026-10-15T13:14:46.892Z"
     },
     {
       "slug": "11-flokkur-drengja",
@@ -2332,24 +2332,6 @@
           "sigur": false
         },
         {
-          "leikId": "6157806",
-          "dags": "2026-10-17",
-          "timi": "15:00",
-          "iso": "2026-10-17T15:00:00+00:00",
-          "heima": "Selfoss/Laugdælir 10.fl.dr.",
-          "heimaId": "4735179",
-          "gestir": "Álftanes 10.fl.dr.",
-          "gestaId": "4749408",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
-          "vollur": "Vallaskóli",
-          "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=196&season_id=132627&game_id=6157806",
-          "okkarMegin": "heima",
-          "andstaedingur": "Álftanes 10.fl.dr."
-        },
-        {
           "leikId": "6157808",
           "dags": "2026-10-31",
           "timi": "16:00",
@@ -2456,6 +2438,24 @@
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=196&season_id=132627&game_id=6157820",
           "okkarMegin": "gestir",
           "andstaedingur": "Stjarnan 10.fl.dr."
+        },
+        {
+          "leikId": "6157806",
+          "dags": "2027-01-23",
+          "timi": "19:00",
+          "iso": "2027-01-23T19:00:00+00:00",
+          "heima": "Selfoss/Laugdælir 10.fl.dr.",
+          "heimaId": "4735179",
+          "gestir": "Álftanes 10.fl.dr.",
+          "gestaId": "4749408",
+          "urslit": "",
+          "heimaStig": null,
+          "gestaStig": null,
+          "leikinn": false,
+          "vollur": "Vallaskóli",
+          "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=196&season_id=132627&game_id=6157806",
+          "okkarMegin": "heima",
+          "andstaedingur": "Álftanes 10.fl.dr."
         },
         {
           "leikId": "6157827",
@@ -2656,7 +2656,7 @@
           "andstaedingur": "Hamar/Þór Þ. 10.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-10-11T19:30:19.524Z"
+      "sidastBreytt": "2026-10-15T13:17:14.801Z"
     },
     {
       "slug": "9-flokkur-stulkna",
@@ -3661,5 +3661,5 @@
       "sidastBreytt": "2026-10-11T19:32:39.117Z"
     }
   ],
-  "sidastBreytt": "2026-10-14T23:37:55.287Z"
+  "sidastBreytt": "2026-10-15T13:19:34.464Z"
 }

@@ -111,24 +111,6 @@
       "sigur": true
     },
     {
-      "leikId": "6159752",
-      "dags": "2026-10-25",
-      "timi": "15:00",
-      "iso": "2026-10-25T15:00:00+00:00",
-      "heima": "Þór Ak. 12.fl.kk",
-      "heimaId": "4649835",
-      "gestir": "Selfoss/Laugdælir 12.fl.kk.",
-      "gestaId": "4749665",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
-      "vollur": "Glerárskóli",
-      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159752",
-      "okkarMegin": "gestir",
-      "andstaedingur": "Þór Ak. 12.fl.kk"
-    },
-    {
       "leikId": "6159754",
       "dags": "2026-10-27",
       "timi": "19:30",
@@ -199,6 +181,24 @@
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159774",
       "okkarMegin": "gestir",
       "andstaedingur": "KR/KV 12.fl.kk."
+    },
+    {
+      "leikId": "6159752",
+      "dags": "2026-12-13",
+      "timi": "13:45",
+      "iso": "2026-12-13T13:45:00+00:00",
+      "heima": "Þór Ak. 12.fl.kk",
+      "heimaId": "4649835",
+      "gestir": "Selfoss/Laugdælir 12.fl.kk.",
+      "gestaId": "4749665",
+      "urslit": "",
+      "heimaStig": null,
+      "gestaStig": null,
+      "leikinn": false,
+      "vollur": "Glerárskóli",
+      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159752",
+      "okkarMegin": "gestir",
+      "andstaedingur": "Þór Ak. 12.fl.kk"
     },
     {
       "leikId": "6159782",
@@ -381,5 +381,5 @@
       "andstaedingur": "KR/KV 12.fl.kk."
     }
   ],
-  "sidastBreytt": "2026-10-14T13:29:03.385Z"
+  "sidastBreytt": "2026-10-15T13:14:46.892Z"
 }
