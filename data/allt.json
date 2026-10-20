@@ -1585,14 +1585,17 @@
           "heimaId": "4765545",
           "gestir": "Selfoss 11.fl.dr.",
           "gestaId": "4749663",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "97 : 100",
+          "heimaStig": 97,
+          "gestaStig": 100,
+          "leikinn": true,
           "vollur": "Myntkaup höllin",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=195&season_id=132629&game_id=6156406",
           "okkarMegin": "gestir",
-          "andstaedingur": "Afturelding/Skallagrímur/Reykdælir 11.fl.dr."
+          "andstaedingur": "Afturelding/Skallagrímur/Reykdælir 11.fl.dr.",
+          "okkarStig": 100,
+          "andstaedingsStig": 97,
+          "sigur": true
         },
         {
           "leikId": "6156409",
@@ -1883,7 +1886,7 @@
           "andstaedingur": "ÍA 11.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-10-12T23:38:37.333Z"
+      "sidastBreytt": "2026-10-20T00:38:18.666Z"
     },
     {
       "slug": "10-flokkur-stulkna",
@@ -3664,5 +3667,5 @@
       "sidastBreytt": "2026-10-11T19:32:39.117Z"
     }
   ],
-  "sidastBreytt": "2026-10-16T18:00:12.145Z"
+  "sidastBreytt": "2026-10-20T00:42:56.008Z"
 }
