@@ -161,8 +161,8 @@
     {
       "leikId": "6157820",
       "dags": "2026-12-12",
-      "timi": "16:45",
-      "iso": "2026-12-12T16:45:00+00:00",
+      "timi": "17:15",
+      "iso": "2026-12-12T17:15:00+00:00",
       "heima": "Stjarnan 10.fl.dr.",
       "heimaId": "2498",
       "gestir": "Selfoss/Laugdælir 10.fl.dr.",
@@ -393,5 +393,5 @@
       "andstaedingur": "Hamar/Þór Þ. 10.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-10-15T18:12:06.131Z"
+  "sidastBreytt": "2026-10-21T13:39:51.297Z"
 }
