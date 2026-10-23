@@ -81,14 +81,17 @@
           "heimaId": "4760781",
           "gestir": "Selfoss",
           "gestaId": "4695391",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "92 : 103",
+          "heimaStig": 92,
+          "gestaStig": 103,
+          "leikinn": true,
           "vollur": "Stykkishólmur",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6153945",
           "okkarMegin": "gestir",
-          "andstaedingur": "Snæfell"
+          "andstaedingur": "Snæfell",
+          "okkarStig": 103,
+          "andstaedingsStig": 92,
+          "sigur": true
         },
         {
           "leikId": "6153954",
@@ -415,7 +418,7 @@
           "andstaedingur": "KV"
         }
       ],
-      "sidastBreytt": "2026-10-15T23:08:24.972Z"
+      "sidastBreytt": "2026-10-23T23:24:33.662Z"
     },
     {
       "slug": "mfl-kvenna",
@@ -496,14 +499,17 @@
           "heimaId": "4772368",
           "gestir": "Selfoss",
           "gestaId": "4765539",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "60 : 78",
+          "heimaStig": 60,
+          "gestaStig": 78,
+          "leikinn": true,
           "vollur": "Meistaravellir",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=231&season_id=132570&game_id=6156188",
           "okkarMegin": "gestir",
-          "andstaedingur": "KV"
+          "andstaedingur": "KV",
+          "okkarStig": 78,
+          "andstaedingsStig": 60,
+          "sigur": true
         },
         {
           "leikId": "6156193",
@@ -794,7 +800,7 @@
           "andstaedingur": "Aþena"
         }
       ],
-      "sidastBreytt": "2026-10-15T13:12:36.611Z"
+      "sidastBreytt": "2026-10-23T23:25:15.901Z"
     },
     {
       "slug": "selfoss-u",
@@ -3667,5 +3673,5 @@
       "sidastBreytt": "2026-10-11T19:32:39.117Z"
     }
   ],
-  "sidastBreytt": "2026-10-22T18:32:24.489Z"
+  "sidastBreytt": "2026-10-23T23:32:13.739Z"
 }

@@ -77,14 +77,17 @@
       "heimaId": "4772368",
       "gestir": "Selfoss",
       "gestaId": "4765539",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "60 : 78",
+      "heimaStig": 60,
+      "gestaStig": 78,
+      "leikinn": true,
       "vollur": "Meistaravellir",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=231&season_id=132570&game_id=6156188",
       "okkarMegin": "gestir",
-      "andstaedingur": "KV"
+      "andstaedingur": "KV",
+      "okkarStig": 78,
+      "andstaedingsStig": 60,
+      "sigur": true
     },
     {
       "leikId": "6156193",
@@ -375,5 +378,5 @@
       "andstaedingur": "Aþena"
     }
   ],
-  "sidastBreytt": "2026-10-15T13:12:36.611Z"
+  "sidastBreytt": "2026-10-23T23:25:15.901Z"
 }
