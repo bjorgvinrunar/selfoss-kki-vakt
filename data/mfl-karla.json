@@ -77,15 +77,15 @@
       "heimaId": "4760781",
       "gestir": "Selfoss",
       "gestaId": "4695391",
-      "urslit": "92 : 103",
+      "urslit": "92 : 104",
       "heimaStig": 92,
-      "gestaStig": 103,
+      "gestaStig": 104,
       "leikinn": true,
       "vollur": "Stykkishólmur",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6153945",
       "okkarMegin": "gestir",
       "andstaedingur": "Snæfell",
-      "okkarStig": 103,
+      "okkarStig": 104,
       "andstaedingsStig": 92,
       "sigur": true
     },
@@ -414,5 +414,5 @@
       "andstaedingur": "KV"
     }
   ],
-  "sidastBreytt": "2026-10-23T23:24:33.662Z"
+  "sidastBreytt": "2026-10-25T17:29:55.911Z"
 }
