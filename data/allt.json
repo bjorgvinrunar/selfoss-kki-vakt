@@ -81,15 +81,15 @@
           "heimaId": "4760781",
           "gestir": "Selfoss",
           "gestaId": "4695391",
-          "urslit": "92 : 104",
+          "urslit": "92 : 103",
           "heimaStig": 92,
-          "gestaStig": 104,
+          "gestaStig": 103,
           "leikinn": true,
           "vollur": "Stykkishólmur",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6153945",
           "okkarMegin": "gestir",
           "andstaedingur": "Snæfell",
-          "okkarStig": 104,
+          "okkarStig": 103,
           "andstaedingsStig": 92,
           "sigur": true
         },
@@ -418,7 +418,7 @@
           "andstaedingur": "KV"
         }
       ],
-      "sidastBreytt": "2026-10-25T17:29:55.911Z"
+      "sidastBreytt": "2026-10-26T14:57:13.122Z"
     },
     {
       "slug": "mfl-kvenna",
@@ -860,14 +860,17 @@
           "heimaId": "4772377",
           "gestir": "Reykdælir",
           "gestaId": "4780967",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "84 : 66",
+          "heimaStig": 84,
+          "gestaStig": 66,
+          "leikinn": true,
           "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=232&season_id=132677&game_id=6158905",
           "okkarMegin": "heima",
-          "andstaedingur": "Reykdælir"
+          "andstaedingur": "Reykdælir",
+          "okkarStig": 84,
+          "andstaedingsStig": 66,
+          "sigur": true
         },
         {
           "leikId": "6158909",
@@ -1104,7 +1107,7 @@
           "andstaedingur": "Fylkir"
         }
       ],
-      "sidastBreytt": "2026-10-14T13:27:58.550Z"
+      "sidastBreytt": "2026-10-26T14:59:03.120Z"
     },
     {
       "slug": "12-flokkur-karla",
@@ -3673,5 +3676,5 @@
       "sidastBreytt": "2026-10-11T19:32:39.117Z"
     }
   ],
-  "sidastBreytt": "2026-10-25T17:37:38.543Z"
+  "sidastBreytt": "2026-10-26T15:04:56.107Z"
 }
