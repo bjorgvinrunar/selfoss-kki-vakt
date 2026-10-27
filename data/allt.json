@@ -1615,14 +1615,17 @@
           "heimaId": "4749663",
           "gestir": "ÍA 11.fl.dr.",
           "gestaId": "2444",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "99 : 73",
+          "heimaStig": 99,
+          "gestaStig": 73,
+          "leikinn": true,
           "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=195&season_id=132629&game_id=6156409",
           "okkarMegin": "heima",
-          "andstaedingur": "ÍA 11.fl.dr."
+          "andstaedingur": "ÍA 11.fl.dr.",
+          "okkarStig": 99,
+          "andstaedingsStig": 73,
+          "sigur": true
         },
         {
           "leikId": "6156415",
@@ -1895,7 +1898,7 @@
           "andstaedingur": "ÍA 11.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-10-20T00:38:18.666Z"
+      "sidastBreytt": "2026-10-27T00:57:12.105Z"
     },
     {
       "slug": "10-flokkur-stulkna",
@@ -3676,5 +3679,5 @@
       "sidastBreytt": "2026-10-11T19:32:39.117Z"
     }
   ],
-  "sidastBreytt": "2026-10-26T15:04:56.107Z"
+  "sidastBreytt": "2026-10-27T01:01:49.460Z"
 }
