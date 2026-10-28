@@ -1230,14 +1230,17 @@
           "heimaId": "4749665",
           "gestir": "Valur 12.fl.kk.",
           "gestaId": "4749606",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "87 : 74",
+          "heimaStig": 87,
+          "gestaStig": 74,
+          "leikinn": true,
           "vollur": "Laugarvatn",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159754",
           "okkarMegin": "heima",
-          "andstaedingur": "Valur 12.fl.kk."
+          "andstaedingur": "Valur 12.fl.kk.",
+          "okkarStig": 87,
+          "andstaedingsStig": 74,
+          "sigur": true
         },
         {
           "leikId": "6159763",
@@ -1492,7 +1495,7 @@
           "andstaedingur": "KR/KV 12.fl.kk."
         }
       ],
-      "sidastBreytt": "2026-10-15T13:14:46.892Z"
+      "sidastBreytt": "2026-10-28T00:36:59.733Z"
     },
     {
       "slug": "11-flokkur-drengja",
@@ -3679,5 +3682,5 @@
       "sidastBreytt": "2026-10-11T19:32:39.117Z"
     }
   ],
-  "sidastBreytt": "2026-10-27T01:01:49.460Z"
+  "sidastBreytt": "2026-10-28T00:41:47.901Z"
 }
