@@ -102,14 +102,17 @@
           "heimaId": "4695391",
           "gestir": "Þór Þ.",
           "gestaId": "4760739",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "100 : 107",
+          "heimaStig": 100,
+          "gestaStig": 107,
+          "leikinn": true,
           "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6153954",
           "okkarMegin": "heima",
-          "andstaedingur": "Þór Þ."
+          "andstaedingur": "Þór Þ.",
+          "okkarStig": 100,
+          "andstaedingsStig": 107,
+          "sigur": false
         },
         {
           "leikId": "6153958",
@@ -418,7 +421,7 @@
           "andstaedingur": "KV"
         }
       ],
-      "sidastBreytt": "2026-10-26T14:57:13.122Z"
+      "sidastBreytt": "2026-10-29T21:44:18.376Z"
     },
     {
       "slug": "mfl-kvenna",
@@ -3682,5 +3685,5 @@
       "sidastBreytt": "2026-10-11T19:32:39.117Z"
     }
   ],
-  "sidastBreytt": "2026-10-28T20:17:43.605Z"
+  "sidastBreytt": "2026-10-29T21:51:58.148Z"
 }
