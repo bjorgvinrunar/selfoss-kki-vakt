@@ -98,14 +98,17 @@
       "heimaId": "4765539",
       "gestir": "ÍR",
       "gestaId": "4760788",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "109 : 37",
+      "heimaStig": 109,
+      "gestaStig": 37,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=231&season_id=132570&game_id=6156193",
       "okkarMegin": "heima",
-      "andstaedingur": "ÍR"
+      "andstaedingur": "ÍR",
+      "okkarStig": 109,
+      "andstaedingsStig": 37,
+      "sigur": true
     },
     {
       "leikId": "6156204",
@@ -378,5 +381,5 @@
       "andstaedingur": "Aþena"
     }
   ],
-  "sidastBreytt": "2026-10-23T23:25:15.901Z"
+  "sidastBreytt": "2026-10-30T21:27:16.428Z"
 }
