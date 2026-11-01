@@ -77,14 +77,17 @@
       "heimaId": "4735179",
       "gestir": "Sindri/Máni 10.fl.dr.",
       "gestaId": "4735015",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "65 : 100",
+      "heimaStig": 65,
+      "gestaStig": 100,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=196&season_id=132627&game_id=6157826",
       "okkarMegin": "heima",
-      "andstaedingur": "Sindri/Máni 10.fl.dr."
+      "andstaedingur": "Sindri/Máni 10.fl.dr.",
+      "okkarStig": 65,
+      "andstaedingsStig": 100,
+      "sigur": false
     },
     {
       "leikId": "6157808",
@@ -393,5 +396,5 @@
       "andstaedingur": "Hamar/Þór Þ. 10.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-10-21T13:39:51.297Z"
+  "sidastBreytt": "2026-11-01T19:31:30.427Z"
 }

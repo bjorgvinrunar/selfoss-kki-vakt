@@ -119,14 +119,17 @@
       "heimaId": "4725219",
       "gestir": "Laugdælir/Selfoss b 9.fl.dr.",
       "gestaId": "4725337",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "91 : 20",
+      "heimaStig": 91,
+      "gestaStig": 20,
+      "leikinn": true,
       "vollur": "ÞG Verk höllin",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6159056",
       "okkarMegin": "gestir",
-      "andstaedingur": "Stjarnan c 9.fl.dr."
+      "andstaedingur": "Stjarnan c 9.fl.dr.",
+      "okkarStig": 20,
+      "andstaedingsStig": 91,
+      "sigur": false
     },
     {
       "leikId": "6159065",
@@ -309,5 +312,5 @@
       "andstaedingur": "Breiðablik b 9.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-10-30T15:03:15.842Z"
+  "sidastBreytt": "2026-11-01T19:33:50.022Z"
 }
