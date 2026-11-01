@@ -1988,14 +1988,17 @@
           "heimaId": "4772386",
           "gestir": "Vestri 10.fl.st.",
           "gestaId": "4749924",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "78 : 51",
+          "heimaStig": 78,
+          "gestaStig": 51,
+          "leikinn": true,
           "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=193&season_id=132628&game_id=6157612",
           "okkarMegin": "heima",
-          "andstaedingur": "Vestri 10.fl.st."
+          "andstaedingur": "Vestri 10.fl.st.",
+          "okkarStig": 78,
+          "andstaedingsStig": 51,
+          "sigur": true
         },
         {
           "leikId": "6157600",
@@ -2286,7 +2289,7 @@
           "andstaedingur": "Keflavík 10.fl.st."
         }
       ],
-      "sidastBreytt": "2026-10-11T19:29:06.743Z"
+      "sidastBreytt": "2026-11-01T14:54:27.970Z"
     },
     {
       "slug": "10-flokkur-drengja",
@@ -3688,5 +3691,5 @@
       "sidastBreytt": "2026-10-30T15:03:15.842Z"
     }
   ],
-  "sidastBreytt": "2026-10-30T21:34:14.270Z"
+  "sidastBreytt": "2026-11-01T14:58:00.540Z"
 }
