@@ -7,7 +7,7 @@
       "nafn": "Meistaraflokkur karla",
       "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=191&season_id=132571&team_id=4695391#mbt:6-200$t&0=1",
       "lidId": "4695391",
-      "mot": "1. deild karla ( 2026-2027 Tímabil)",
+      "mot": "Bæjarins Beztu deild karla ( 2026-2027 Tímabil)",
       "leikir": [
         {
           "leikId": "6153931",
@@ -421,14 +421,14 @@
           "andstaedingur": "KV"
         }
       ],
-      "sidastBreytt": "2026-10-29T21:44:18.376Z"
+      "sidastBreytt": "2026-11-02T17:58:45.686Z"
     },
     {
       "slug": "mfl-kvenna",
       "nafn": "Meistaraflokkur kvenna",
       "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=231&season_id=132570&team_id=4765539#mbt:6-200$t&0=1",
       "lidId": "4765539",
-      "mot": "1. deild kvenna ( 2026-2027 Tímabil)",
+      "mot": "Bæjarins Beztu deild kvenna ( 2026-2027 Tímabil)",
       "leikir": [
         {
           "leikId": "6156171",
@@ -806,7 +806,7 @@
           "andstaedingur": "Aþena"
         }
       ],
-      "sidastBreytt": "2026-10-30T21:27:16.428Z"
+      "sidastBreytt": "2026-11-02T17:59:30.724Z"
     },
     {
       "slug": "selfoss-u",
@@ -3700,5 +3700,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-01T19:33:50.060Z"
+  "sidastBreytt": "2026-11-02T18:06:28.550Z"
 }
