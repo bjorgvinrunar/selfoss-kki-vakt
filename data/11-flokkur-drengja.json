@@ -140,14 +140,17 @@
       "heimaId": "4749663",
       "gestir": "Þór Þ./Hamar 11.fl.dr.",
       "gestaId": "311443",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "98 : 82",
+      "heimaStig": 98,
+      "gestaStig": 82,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=195&season_id=132629&game_id=6156415",
       "okkarMegin": "heima",
-      "andstaedingur": "Þór Þ./Hamar 11.fl.dr."
+      "andstaedingur": "Þór Þ./Hamar 11.fl.dr.",
+      "okkarStig": 98,
+      "andstaedingsStig": 82,
+      "sigur": true
     },
     {
       "leikId": "6156416",
@@ -402,5 +405,5 @@
       "andstaedingur": "ÍA 11.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-10-27T00:57:12.105Z"
+  "sidastBreytt": "2026-11-02T23:54:44.034Z"
 }
