@@ -110,8 +110,8 @@
     {
       "leikId": "6158915",
       "dags": "2026-11-15",
-      "timi": "18:00",
-      "iso": "2026-11-15T18:00:00+00:00",
+      "timi": "14:00",
+      "iso": "2026-11-15T14:00:00+00:00",
       "heima": "Aþena/Leiknir R.",
       "heimaId": "4723555",
       "gestir": "Selfoss u",
@@ -306,5 +306,5 @@
       "andstaedingur": "Fylkir"
     }
   ],
-  "sidastBreytt": "2026-11-01T19:27:57.467Z"
+  "sidastBreytt": "2026-11-05T16:20:53.782Z"
 }

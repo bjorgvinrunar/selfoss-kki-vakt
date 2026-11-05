@@ -920,8 +920,8 @@
         {
           "leikId": "6158915",
           "dags": "2026-11-15",
-          "timi": "18:00",
-          "iso": "2026-11-15T18:00:00+00:00",
+          "timi": "14:00",
+          "iso": "2026-11-15T14:00:00+00:00",
           "heima": "Aþena/Leiknir R.",
           "heimaId": "4723555",
           "gestir": "Selfoss u",
@@ -1116,7 +1116,7 @@
           "andstaedingur": "Fylkir"
         }
       ],
-      "sidastBreytt": "2026-11-01T19:27:57.467Z"
+      "sidastBreytt": "2026-11-05T16:20:53.782Z"
     },
     {
       "slug": "12-flokkur-karla",
@@ -2009,8 +2009,8 @@
         {
           "leikId": "6157600",
           "dags": "2026-11-07",
-          "timi": "15:00",
-          "iso": "2026-11-07T15:00:00+00:00",
+          "timi": "13:30",
+          "iso": "2026-11-07T13:30:00+00:00",
           "heima": "Höttur 10. fl. st.",
           "heimaId": "22049",
           "gestir": "Selfoss 10.fl.st.",
@@ -2295,7 +2295,7 @@
           "andstaedingur": "Keflavík 10.fl.st."
         }
       ],
-      "sidastBreytt": "2026-11-01T14:54:27.970Z"
+      "sidastBreytt": "2026-11-05T16:23:14.094Z"
     },
     {
       "slug": "10-flokkur-drengja",
@@ -3703,5 +3703,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-02T23:59:21.429Z"
+  "sidastBreytt": "2026-11-05T16:26:46.536Z"
 }
