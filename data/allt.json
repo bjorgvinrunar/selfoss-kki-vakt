@@ -123,14 +123,17 @@
           "heimaId": "4760731",
           "gestir": "Selfoss",
           "gestaId": "4695391",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "85 : 125",
+          "heimaStig": 85,
+          "gestaStig": 125,
+          "leikinn": true,
           "vollur": "Hveragerði",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6153958",
           "okkarMegin": "gestir",
-          "andstaedingur": "Hamar"
+          "andstaedingur": "Hamar",
+          "okkarStig": 125,
+          "andstaedingsStig": 85,
+          "sigur": true
         },
         {
           "leikId": "6153965",
@@ -421,7 +424,7 @@
           "andstaedingur": "KV"
         }
       ],
-      "sidastBreytt": "2026-11-02T17:58:45.686Z"
+      "sidastBreytt": "2026-11-06T21:23:09.007Z"
     },
     {
       "slug": "mfl-kvenna",
@@ -3703,5 +3706,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-05T16:26:46.536Z"
+  "sidastBreytt": "2026-11-06T21:30:51.777Z"
 }
