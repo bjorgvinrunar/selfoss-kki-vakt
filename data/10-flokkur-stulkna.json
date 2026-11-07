@@ -98,14 +98,17 @@
       "heimaId": "22049",
       "gestir": "Selfoss 10.fl.st.",
       "gestaId": "4772386",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "40 : 77",
+      "heimaStig": 40,
+      "gestaStig": 77,
+      "leikinn": true,
       "vollur": "Varðarhöllin",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=193&season_id=132628&game_id=6157600",
       "okkarMegin": "gestir",
-      "andstaedingur": "Höttur 10. fl. st."
+      "andstaedingur": "Höttur 10. fl. st.",
+      "okkarStig": 77,
+      "andstaedingsStig": 40,
+      "sigur": true
     },
     {
       "leikId": "6157663",
@@ -378,5 +381,5 @@
       "andstaedingur": "Keflavík 10.fl.st."
     }
   ],
-  "sidastBreytt": "2026-11-05T16:23:14.094Z"
+  "sidastBreytt": "2026-11-07T19:23:02.464Z"
 }
