@@ -911,14 +911,17 @@
           "heimaId": "4772377",
           "gestir": "Afturelding",
           "gestaId": "262493",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "88 : 71",
+          "heimaStig": 88,
+          "gestaStig": 71,
+          "leikinn": true,
           "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=232&season_id=132677&game_id=6158910",
           "okkarMegin": "heima",
-          "andstaedingur": "Afturelding"
+          "andstaedingur": "Afturelding",
+          "okkarStig": 88,
+          "andstaedingsStig": 71,
+          "sigur": true
         },
         {
           "leikId": "6158915",
@@ -1119,7 +1122,7 @@
           "andstaedingur": "Fylkir"
         }
       ],
-      "sidastBreytt": "2026-11-05T16:20:53.782Z"
+      "sidastBreytt": "2026-11-08T21:04:07.940Z"
     },
     {
       "slug": "12-flokkur-karla",
@@ -3709,5 +3712,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-07T19:26:34.781Z"
+  "sidastBreytt": "2026-11-08T21:10:00.754Z"
 }
