@@ -7,7 +7,7 @@
       "nafn": "Meistaraflokkur karla",
       "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=191&season_id=132571&team_id=4695391#mbt:6-200$t&0=1",
       "lidId": "4695391",
-      "mot": "Bæjarins Beztu deild karla ( 2026-2027 Tímabil)",
+      "mot": "Bæjarins Beztu deild karla Bæjarins beztu deildin ( 2026-2027 Tímabil)",
       "leikir": [
         {
           "leikId": "6153931",
@@ -424,7 +424,7 @@
           "andstaedingur": "KV"
         }
       ],
-      "sidastBreytt": "2026-11-06T21:23:09.007Z"
+      "sidastBreytt": "2026-11-09T18:29:06.896Z"
     },
     {
       "slug": "mfl-kvenna",
@@ -925,9 +925,9 @@
         },
         {
           "leikId": "6158915",
-          "dags": "2026-11-15",
+          "dags": "2026-11-14",
           "timi": "14:00",
-          "iso": "2026-11-15T14:00:00+00:00",
+          "iso": "2026-11-14T14:00:00+00:00",
           "heima": "Aþena/Leiknir R.",
           "heimaId": "4723555",
           "gestir": "Selfoss u",
@@ -1122,7 +1122,7 @@
           "andstaedingur": "Fylkir"
         }
       ],
-      "sidastBreytt": "2026-11-08T21:04:07.940Z"
+      "sidastBreytt": "2026-11-09T18:30:55.199Z"
     },
     {
       "slug": "12-flokkur-karla",
@@ -3712,5 +3712,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-08T21:10:00.754Z"
+  "sidastBreytt": "2026-11-09T18:36:48.052Z"
 }
