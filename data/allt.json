@@ -3143,8 +3143,8 @@
         {
           "leikId": "6156992",
           "dags": "2026-11-14",
-          "timi": "14:00",
-          "iso": "2026-11-14T14:00:00+00:00",
+          "timi": "15:00",
+          "iso": "2026-11-14T15:00:00+00:00",
           "heima": "Laugdælir/Selfoss 9.fl.dr.",
           "heimaId": "4749736",
           "gestir": "Haukar 9.fl.dr.",
@@ -3153,7 +3153,7 @@
           "heimaStig": null,
           "gestaStig": null,
           "leikinn": false,
-          "vollur": "Laugarvatn",
+          "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6156992",
           "okkarMegin": "heima",
           "andstaedingur": "Haukar 9.fl.dr."
@@ -3393,7 +3393,7 @@
           "andstaedingur": "Valur 9.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-10-28T20:17:02.201Z"
+      "sidastBreytt": "2026-11-12T16:47:16.525Z"
     },
     {
       "slug": "9-flokkur-drengja-b",
@@ -3712,5 +3712,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-09T18:36:48.052Z"
+  "sidastBreytt": "2026-11-12T16:47:57.982Z"
 }
