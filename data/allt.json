@@ -2406,14 +2406,17 @@
           "heimaId": "4749858",
           "gestir": "Selfoss/Laugdælir 10.fl.dr.",
           "gestaId": "4735179",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "104 : 82",
+          "heimaStig": 104,
+          "gestaStig": 82,
+          "leikinn": true,
           "vollur": "Hveragerði",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=196&season_id=132627&game_id=6157808",
           "okkarMegin": "gestir",
-          "andstaedingur": "Hamar/Þór Þ. 10.fl.dr."
+          "andstaedingur": "Hamar/Þór Þ. 10.fl.dr.",
+          "okkarStig": 82,
+          "andstaedingsStig": 104,
+          "sigur": false
         },
         {
           "leikId": "6157792",
@@ -2704,7 +2707,7 @@
           "andstaedingur": "Hamar/Þór Þ. 10.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-11-01T19:31:30.427Z"
+      "sidastBreytt": "2026-11-12T22:46:39.644Z"
     },
     {
       "slug": "9-flokkur-stulkna",
@@ -3712,5 +3715,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-12T16:47:57.982Z"
+  "sidastBreytt": "2026-11-12T22:48:59.291Z"
 }
