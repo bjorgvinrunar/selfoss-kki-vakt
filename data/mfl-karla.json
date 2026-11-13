@@ -140,14 +140,17 @@
       "heimaId": "4695391",
       "gestir": "Breiðablik",
       "gestaId": "4760729",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "99 : 90",
+      "heimaStig": 99,
+      "gestaStig": 90,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6153965",
       "okkarMegin": "heima",
-      "andstaedingur": "Breiðablik"
+      "andstaedingur": "Breiðablik",
+      "okkarStig": 99,
+      "andstaedingsStig": 90,
+      "sigur": true
     },
     {
       "leikId": "6153971",
@@ -420,5 +423,5 @@
       "andstaedingur": "KV"
     }
   ],
-  "sidastBreytt": "2026-11-09T18:29:06.896Z"
+  "sidastBreytt": "2026-11-13T21:55:43.307Z"
 }
