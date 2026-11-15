@@ -119,14 +119,17 @@
       "heimaId": "4765539",
       "gestir": "Njardvik b",
       "gestaId": "4772367",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "86 : 79",
+      "heimaStig": 86,
+      "gestaStig": 79,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=231&season_id=132570&game_id=6156204",
       "okkarMegin": "heima",
-      "andstaedingur": "Njardvik b"
+      "andstaedingur": "Njardvik b",
+      "okkarStig": 86,
+      "andstaedingsStig": 79,
+      "sigur": true
     },
     {
       "leikId": "6156214",
@@ -381,5 +384,5 @@
       "andstaedingur": "Aþena"
     }
   ],
-  "sidastBreytt": "2026-11-02T17:59:30.724Z"
+  "sidastBreytt": "2026-11-15T20:54:40.119Z"
 }

@@ -119,14 +119,17 @@
       "heimaId": "4772386",
       "gestir": "Breiðablik 10.fl.st.",
       "gestaId": "4749821",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "77 : 59",
+      "heimaStig": 77,
+      "gestaStig": 59,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=193&season_id=132628&game_id=6157663",
       "okkarMegin": "heima",
-      "andstaedingur": "Breiðablik 10.fl.st."
+      "andstaedingur": "Breiðablik 10.fl.st.",
+      "okkarStig": 77,
+      "andstaedingsStig": 59,
+      "sigur": true
     },
     {
       "leikId": "6157613",
@@ -381,5 +384,5 @@
       "andstaedingur": "Keflavík 10.fl.st."
     }
   ],
-  "sidastBreytt": "2026-11-07T19:23:02.464Z"
+  "sidastBreytt": "2026-11-15T20:58:05.354Z"
 }
