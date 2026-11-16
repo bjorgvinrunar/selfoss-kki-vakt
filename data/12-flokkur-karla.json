@@ -140,14 +140,17 @@
       "heimaId": "4749402",
       "gestir": "Selfoss/Laugdælir 12.fl.kk.",
       "gestaId": "4749665",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "109 : 87",
+      "heimaStig": 109,
+      "gestaStig": 87,
+      "leikinn": true,
       "vollur": "ÞG Verk höllin",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159763",
       "okkarMegin": "gestir",
-      "andstaedingur": "Stjarnan/KFG 12.fl.kk."
+      "andstaedingur": "Stjarnan/KFG 12.fl.kk.",
+      "okkarStig": 87,
+      "andstaedingsStig": 109,
+      "sigur": false
     },
     {
       "leikId": "6159773",
@@ -384,5 +387,5 @@
       "andstaedingur": "KR/KV 12.fl.kk."
     }
   ],
-  "sidastBreytt": "2026-10-28T00:36:59.733Z"
+  "sidastBreytt": "2026-11-16T18:06:53.579Z"
 }

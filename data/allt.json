@@ -7,7 +7,7 @@
       "nafn": "Meistaraflokkur karla",
       "url": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Eitt-lid?league_id=191&season_id=132571&team_id=4695391#mbt:6-200$t&0=1",
       "lidId": "4695391",
-      "mot": "Bæjarins Beztu deild karla Bæjarins beztu deildin ( 2026-2027 Tímabil)",
+      "mot": "Bæjarins Beztu deild karla ( 2026-2027 Tímabil)",
       "leikir": [
         {
           "leikId": "6153931",
@@ -427,7 +427,7 @@
           "andstaedingur": "KV"
         }
       ],
-      "sidastBreytt": "2026-11-13T21:55:43.307Z"
+      "sidastBreytt": "2026-11-16T18:04:00.943Z"
     },
     {
       "slug": "mfl-kvenna",
@@ -1275,14 +1275,17 @@
           "heimaId": "4749402",
           "gestir": "Selfoss/Laugdælir 12.fl.kk.",
           "gestaId": "4749665",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "109 : 87",
+          "heimaStig": 109,
+          "gestaStig": 87,
+          "leikinn": true,
           "vollur": "ÞG Verk höllin",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159763",
           "okkarMegin": "gestir",
-          "andstaedingur": "Stjarnan/KFG 12.fl.kk."
+          "andstaedingur": "Stjarnan/KFG 12.fl.kk.",
+          "okkarStig": 87,
+          "andstaedingsStig": 109,
+          "sigur": false
         },
         {
           "leikId": "6159773",
@@ -1519,7 +1522,7 @@
           "andstaedingur": "KR/KV 12.fl.kk."
         }
       ],
-      "sidastBreytt": "2026-10-28T00:36:59.733Z"
+      "sidastBreytt": "2026-11-16T18:06:53.579Z"
     },
     {
       "slug": "11-flokkur-drengja",
@@ -3733,5 +3736,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-15T21:01:37.914Z"
+  "sidastBreytt": "2026-11-16T18:11:41.785Z"
 }
