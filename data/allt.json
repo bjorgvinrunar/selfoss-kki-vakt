@@ -1792,8 +1792,8 @@
         {
           "leikId": "6156437",
           "dags": "2027-01-25",
-          "timi": "20:30",
-          "iso": "2027-01-25T20:30:00+00:00",
+          "timi": "20:15",
+          "iso": "2027-01-25T20:15:00+00:00",
           "heima": "ÍA 11.fl.dr.",
           "heimaId": "2444",
           "gestir": "Selfoss 11.fl.dr.",
@@ -1934,7 +1934,7 @@
           "andstaedingur": "ÍA 11.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-11-17T00:47:17.522Z"
+      "sidastBreytt": "2026-11-17T17:31:47.740Z"
     },
     {
       "slug": "10-flokkur-stulkna",
@@ -3188,8 +3188,8 @@
         {
           "leikId": "6156996",
           "dags": "2026-11-22",
-          "timi": "13:30",
-          "iso": "2026-11-22T13:30:00+00:00",
+          "timi": "12:20",
+          "iso": "2026-11-22T12:20:00+00:00",
           "heima": "Valur 9.fl.dr.",
           "heimaId": "4749598",
           "gestir": "Laugdælir/Selfoss 9.fl.dr.",
@@ -3420,7 +3420,7 @@
           "andstaedingur": "Valur 9.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-11-15T01:22:32.548Z"
+      "sidastBreytt": "2026-11-17T17:35:43.444Z"
     },
     {
       "slug": "9-flokkur-drengja-b",
@@ -3739,5 +3739,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-17T00:51:54.887Z"
+  "sidastBreytt": "2026-11-17T17:36:25.091Z"
 }
