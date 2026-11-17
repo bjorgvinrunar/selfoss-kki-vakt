@@ -1687,14 +1687,17 @@
           "heimaId": "4749663",
           "gestir": "Fjölnir/Vængir Júpiters 11.fl.dr.",
           "gestaId": "4749748",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "108 : 99",
+          "heimaStig": 108,
+          "gestaStig": 99,
+          "leikinn": true,
           "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=195&season_id=132629&game_id=6156416",
           "okkarMegin": "heima",
-          "andstaedingur": "Fjölnir/Vængir Júpiters 11.fl.dr."
+          "andstaedingur": "Fjölnir/Vængir Júpiters 11.fl.dr.",
+          "okkarStig": 108,
+          "andstaedingsStig": 99,
+          "sigur": true
         },
         {
           "leikId": "6156423",
@@ -1931,7 +1934,7 @@
           "andstaedingur": "ÍA 11.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-11-02T23:54:44.034Z"
+      "sidastBreytt": "2026-11-17T00:47:17.522Z"
     },
     {
       "slug": "10-flokkur-stulkna",
@@ -3736,5 +3739,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-16T18:11:41.785Z"
+  "sidastBreytt": "2026-11-17T00:51:54.887Z"
 }
