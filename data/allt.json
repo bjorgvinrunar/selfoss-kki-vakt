@@ -1738,8 +1738,8 @@
         {
           "leikId": "6156425",
           "dags": "2026-12-14",
-          "timi": "20:30",
-          "iso": "2026-12-14T20:30:00+00:00",
+          "timi": "20:15",
+          "iso": "2026-12-14T20:15:00+00:00",
           "heima": "Selfoss 11.fl.dr.",
           "heimaId": "4749663",
           "gestir": "Stjarnan/KFG b 11.fl.dr.",
@@ -1774,8 +1774,8 @@
         {
           "leikId": "6156434",
           "dags": "2027-01-18",
-          "timi": "20:30",
-          "iso": "2027-01-18T20:30:00+00:00",
+          "timi": "20:15",
+          "iso": "2027-01-18T20:15:00+00:00",
           "heima": "Selfoss 11.fl.dr.",
           "heimaId": "4749663",
           "gestir": "Afturelding/Skallagrímur/Reykdælir 11.fl.dr.",
@@ -1846,8 +1846,8 @@
         {
           "leikId": "6156451",
           "dags": "2027-03-01",
-          "timi": "20:30",
-          "iso": "2027-03-01T20:30:00+00:00",
+          "timi": "20:15",
+          "iso": "2027-03-01T20:15:00+00:00",
           "heima": "Selfoss 11.fl.dr.",
           "heimaId": "4749663",
           "gestir": "KR/KV 11.fl.dr.",
@@ -1882,8 +1882,8 @@
         {
           "leikId": "6156458",
           "dags": "2027-03-15",
-          "timi": "20:30",
-          "iso": "2027-03-15T20:30:00+00:00",
+          "timi": "20:15",
+          "iso": "2027-03-15T20:15:00+00:00",
           "heima": "Selfoss 11.fl.dr.",
           "heimaId": "4749663",
           "gestir": "Breiðablik/Augnablik b 11.fl.dr.",
@@ -1918,8 +1918,8 @@
         {
           "leikId": "6156465",
           "dags": "2027-04-12",
-          "timi": "20:30",
-          "iso": "2027-04-12T20:30:00+00:00",
+          "timi": "20:15",
+          "iso": "2027-04-12T20:15:00+00:00",
           "heima": "Selfoss 11.fl.dr.",
           "heimaId": "4749663",
           "gestir": "ÍA 11.fl.dr.",
@@ -1934,7 +1934,7 @@
           "andstaedingur": "ÍA 11.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-11-17T17:31:47.740Z"
+      "sidastBreytt": "2026-11-18T17:08:04.632Z"
     },
     {
       "slug": "10-flokkur-stulkna",
@@ -3739,5 +3739,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-17T17:36:25.091Z"
+  "sidastBreytt": "2026-11-18T17:12:41.990Z"
 }
