@@ -195,8 +195,8 @@
         {
           "leikId": "6153984",
           "dags": "2026-12-04",
-          "timi": "19:30",
-          "iso": "2026-12-04T19:30:00+00:00",
+          "timi": "19:00",
+          "iso": "2026-12-04T19:00:00+00:00",
           "heima": "KFG",
           "heimaId": "4765322",
           "gestir": "Selfoss",
@@ -427,7 +427,7 @@
           "andstaedingur": "KV"
         }
       ],
-      "sidastBreytt": "2026-11-16T18:04:00.943Z"
+      "sidastBreytt": "2026-11-19T17:10:39.235Z"
     },
     {
       "slug": "mfl-kvenna",
@@ -3739,5 +3739,5 @@
       "sidastBreytt": "2026-11-01T19:33:50.022Z"
     }
   ],
-  "sidastBreytt": "2026-11-18T17:12:41.990Z"
+  "sidastBreytt": "2026-11-19T17:18:19.156Z"
 }
