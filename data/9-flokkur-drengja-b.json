@@ -134,8 +134,8 @@
     {
       "leikId": "6159065",
       "dags": "2026-11-22",
-      "timi": "13:30",
-      "iso": "2026-11-22T13:30:00+00:00",
+      "timi": "12:45",
+      "iso": "2026-11-22T12:45:00+00:00",
       "heima": "Laugdælir/Selfoss b 9.fl.dr.",
       "heimaId": "4725337",
       "gestir": "Skallagrímur 9.fl.dr.",
@@ -312,5 +312,5 @@
       "andstaedingur": "Breiðablik b 9.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-11-01T19:33:50.022Z"
+  "sidastBreytt": "2026-11-20T16:55:58.379Z"
 }

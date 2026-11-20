@@ -171,24 +171,6 @@
       "andstaedingur": "Njarðvík 12.fl.kk."
     },
     {
-      "leikId": "6159774",
-      "dags": "2026-11-28",
-      "timi": "17:00",
-      "iso": "2026-11-28T17:00:00+00:00",
-      "heima": "KR/KV 12.fl.kk.",
-      "heimaId": "4749917",
-      "gestir": "Selfoss/Laugdælir 12.fl.kk.",
-      "gestaId": "4749665",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
-      "vollur": "Meistaravellir",
-      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159774",
-      "okkarMegin": "gestir",
-      "andstaedingur": "KR/KV 12.fl.kk."
-    },
-    {
       "leikId": "6159752",
       "dags": "2026-12-13",
       "timi": "13:45",
@@ -259,6 +241,24 @@
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159791",
       "okkarMegin": "gestir",
       "andstaedingur": "Fjölnir/Vængir Júpíters 12.fl.kk."
+    },
+    {
+      "leikId": "6159774",
+      "dags": "2027-01-31",
+      "timi": "18:00",
+      "iso": "2027-01-31T18:00:00+00:00",
+      "heima": "KR/KV 12.fl.kk.",
+      "heimaId": "4749917",
+      "gestir": "Selfoss/Laugdælir 12.fl.kk.",
+      "gestaId": "4749665",
+      "urslit": "",
+      "heimaStig": null,
+      "gestaStig": null,
+      "leikinn": false,
+      "vollur": "Meistaravellir",
+      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159774",
+      "okkarMegin": "gestir",
+      "andstaedingur": "KR/KV 12.fl.kk."
     },
     {
       "leikId": "6159796",
@@ -387,5 +387,5 @@
       "andstaedingur": "KR/KV 12.fl.kk."
     }
   ],
-  "sidastBreytt": "2026-11-16T18:06:53.579Z"
+  "sidastBreytt": "2026-11-20T16:51:10.513Z"
 }

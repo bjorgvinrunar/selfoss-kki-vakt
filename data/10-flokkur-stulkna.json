@@ -132,24 +132,6 @@
       "sigur": true
     },
     {
-      "leikId": "6157613",
-      "dags": "2026-11-22",
-      "timi": "15:00",
-      "iso": "2026-11-22T15:00:00+00:00",
-      "heima": "Ármann 10.fl.st.",
-      "heimaId": "4749796",
-      "gestir": "Selfoss 10.fl.st.",
-      "gestaId": "4772386",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
-      "vollur": "Laugardalshöll",
-      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=193&season_id=132628&game_id=6157613",
-      "okkarMegin": "gestir",
-      "andstaedingur": "Ármann 10.fl.st."
-    },
-    {
       "leikId": "6157618",
       "dags": "2026-11-29",
       "timi": "15:00",
@@ -166,6 +148,24 @@
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=193&season_id=132628&game_id=6157618",
       "okkarMegin": "heima",
       "andstaedingur": "Njarðvík b 10.fl.st."
+    },
+    {
+      "leikId": "6157613",
+      "dags": "2026-12-08",
+      "timi": "20:00",
+      "iso": "2026-12-08T20:00:00+00:00",
+      "heima": "Ármann 10.fl.st.",
+      "heimaId": "4749796",
+      "gestir": "Selfoss 10.fl.st.",
+      "gestaId": "4772386",
+      "urslit": "",
+      "heimaStig": null,
+      "gestaStig": null,
+      "leikinn": false,
+      "vollur": "Laugardalshöll",
+      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=193&season_id=132628&game_id=6157613",
+      "okkarMegin": "gestir",
+      "andstaedingur": "Ármann 10.fl.st."
     },
     {
       "leikId": "6157622",
@@ -384,5 +384,5 @@
       "andstaedingur": "Keflavík 10.fl.st."
     }
   ],
-  "sidastBreytt": "2026-11-15T20:58:05.354Z"
+  "sidastBreytt": "2026-11-20T16:52:25.917Z"
 }

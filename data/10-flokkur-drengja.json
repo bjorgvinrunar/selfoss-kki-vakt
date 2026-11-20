@@ -170,8 +170,8 @@
     {
       "leikId": "6157820",
       "dags": "2026-12-12",
-      "timi": "17:15",
-      "iso": "2026-12-12T17:15:00+00:00",
+      "timi": "13:00",
+      "iso": "2026-12-12T13:00:00+00:00",
       "heima": "Stjarnan 10.fl.dr.",
       "heimaId": "2498",
       "gestir": "Selfoss/Laugdælir 10.fl.dr.",
@@ -180,7 +180,7 @@
       "heimaStig": null,
       "gestaStig": null,
       "leikinn": false,
-      "vollur": "ÞG Verk höllin",
+      "vollur": "ÞG Urriðaholt",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=196&season_id=132627&game_id=6157820",
       "okkarMegin": "gestir",
       "andstaedingur": "Stjarnan 10.fl.dr."
@@ -402,5 +402,5 @@
       "andstaedingur": "Hamar/Þór Þ. 10.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-11-15T20:59:18.283Z"
+  "sidastBreytt": "2026-11-20T16:53:38.767Z"
 }
