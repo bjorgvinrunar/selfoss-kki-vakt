@@ -161,14 +161,17 @@
       "heimaId": "4760782",
       "gestir": "Selfoss",
       "gestaId": "4695391",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "81 : 106",
+      "heimaStig": 81,
+      "gestaStig": 106,
+      "leikinn": true,
       "vollur": "Dalhús",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6153971",
       "okkarMegin": "gestir",
-      "andstaedingur": "Fjölnir"
+      "andstaedingur": "Fjölnir",
+      "okkarStig": 106,
+      "andstaedingsStig": 81,
+      "sigur": true
     },
     {
       "leikId": "6154042",
@@ -423,5 +426,5 @@
       "andstaedingur": "KV"
     }
   ],
-  "sidastBreytt": "2026-11-19T17:10:39.235Z"
+  "sidastBreytt": "2026-11-20T23:02:23.654Z"
 }
