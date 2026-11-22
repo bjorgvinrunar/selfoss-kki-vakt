@@ -140,14 +140,17 @@
       "heimaId": "4725337",
       "gestir": "Skallagrímur 9.fl.dr.",
       "gestaId": "4749850",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "33 : 84",
+      "heimaStig": 33,
+      "gestaStig": 84,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6159065",
       "okkarMegin": "heima",
-      "andstaedingur": "Skallagrímur 9.fl.dr."
+      "andstaedingur": "Skallagrímur 9.fl.dr.",
+      "okkarStig": 33,
+      "andstaedingsStig": 84,
+      "sigur": false
     },
     {
       "leikId": "6159067",
@@ -312,5 +315,5 @@
       "andstaedingur": "Breiðablik b 9.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-11-20T16:55:58.379Z"
+  "sidastBreytt": "2026-11-22T16:09:19.453Z"
 }

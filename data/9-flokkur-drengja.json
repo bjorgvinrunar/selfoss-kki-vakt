@@ -119,14 +119,17 @@
       "heimaId": "4749598",
       "gestir": "Laugdælir/Selfoss 9.fl.dr.",
       "gestaId": "4749736",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "83 : 56",
+      "heimaStig": 83,
+      "gestaStig": 56,
+      "leikinn": true,
       "vollur": "N1-höllin á Hlíðarenda 3",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6156996",
       "okkarMegin": "gestir",
-      "andstaedingur": "Valur 9.fl.dr."
+      "andstaedingur": "Valur 9.fl.dr.",
+      "okkarStig": 56,
+      "andstaedingsStig": 83,
+      "sigur": false
     },
     {
       "leikId": "6157020",
@@ -345,5 +348,5 @@
       "andstaedingur": "Valur 9.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-11-17T17:35:43.444Z"
+  "sidastBreytt": "2026-11-22T16:08:37.750Z"
 }

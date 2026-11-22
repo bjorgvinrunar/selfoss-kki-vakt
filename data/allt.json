@@ -2472,14 +2472,17 @@
           "heimaId": "4749750",
           "gestir": "Selfoss/Laugdælir 10.fl.dr.",
           "gestaId": "4735179",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "102 : 85",
+          "heimaStig": 102,
+          "gestaStig": 85,
+          "leikinn": true,
           "vollur": "Dalhús",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=196&season_id=132627&game_id=6157813",
           "okkarMegin": "gestir",
-          "andstaedingur": "Fjölnir 10.fl.dr."
+          "andstaedingur": "Fjölnir 10.fl.dr.",
+          "okkarStig": 85,
+          "andstaedingsStig": 102,
+          "sigur": false
         },
         {
           "leikId": "6157817",
@@ -2734,7 +2737,7 @@
           "andstaedingur": "Hamar/Þór Þ. 10.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-11-20T16:53:38.767Z"
+      "sidastBreytt": "2026-11-22T16:06:59.834Z"
     },
     {
       "slug": "9-flokkur-stulkna",
@@ -3200,14 +3203,17 @@
           "heimaId": "4749598",
           "gestir": "Laugdælir/Selfoss 9.fl.dr.",
           "gestaId": "4749736",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "83 : 56",
+          "heimaStig": 83,
+          "gestaStig": 56,
+          "leikinn": true,
           "vollur": "N1-höllin á Hlíðarenda 3",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6156996",
           "okkarMegin": "gestir",
-          "andstaedingur": "Valur 9.fl.dr."
+          "andstaedingur": "Valur 9.fl.dr.",
+          "okkarStig": 56,
+          "andstaedingsStig": 83,
+          "sigur": false
         },
         {
           "leikId": "6157020",
@@ -3426,7 +3432,7 @@
           "andstaedingur": "Valur 9.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-11-17T17:35:43.444Z"
+      "sidastBreytt": "2026-11-22T16:08:37.750Z"
     },
     {
       "slug": "9-flokkur-drengja-b",
@@ -3570,14 +3576,17 @@
           "heimaId": "4725337",
           "gestir": "Skallagrímur 9.fl.dr.",
           "gestaId": "4749850",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "33 : 84",
+          "heimaStig": 33,
+          "gestaStig": 84,
+          "leikinn": true,
           "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6159065",
           "okkarMegin": "heima",
-          "andstaedingur": "Skallagrímur 9.fl.dr."
+          "andstaedingur": "Skallagrímur 9.fl.dr.",
+          "okkarStig": 33,
+          "andstaedingsStig": 84,
+          "sigur": false
         },
         {
           "leikId": "6159067",
@@ -3742,8 +3751,8 @@
           "andstaedingur": "Breiðablik b 9.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-11-20T16:55:58.379Z"
+      "sidastBreytt": "2026-11-22T16:09:19.453Z"
     }
   ],
-  "sidastBreytt": "2026-11-21T21:42:53.996Z"
+  "sidastBreytt": "2026-11-22T16:09:19.489Z"
 }
