@@ -965,14 +965,17 @@
           "heimaId": "4772377",
           "gestir": "Fylkir",
           "gestaId": "4749875",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "106 : 78",
+          "heimaStig": 106,
+          "gestaStig": 78,
+          "leikinn": true,
           "vollur": "Vallaskóli",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=232&season_id=132677&game_id=6158920",
           "okkarMegin": "heima",
-          "andstaedingur": "Fylkir"
+          "andstaedingur": "Fylkir",
+          "okkarStig": 106,
+          "andstaedingsStig": 78,
+          "sigur": true
         },
         {
           "leikId": "6158924",
@@ -1137,7 +1140,7 @@
           "andstaedingur": "Fylkir"
         }
       ],
-      "sidastBreytt": "2026-11-14T19:51:25.728Z"
+      "sidastBreytt": "2026-11-22T21:45:08.260Z"
     },
     {
       "slug": "12-flokkur-karla",
@@ -3754,5 +3757,5 @@
       "sidastBreytt": "2026-11-22T16:09:19.453Z"
     }
   ],
-  "sidastBreytt": "2026-11-22T16:09:19.489Z"
+  "sidastBreytt": "2026-11-22T21:51:00.991Z"
 }
