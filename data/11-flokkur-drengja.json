@@ -182,14 +182,17 @@
       "heimaId": "4749913",
       "gestir": "Selfoss 11.fl.dr.",
       "gestaId": "4749663",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "86 : 100",
+      "heimaStig": 86,
+      "gestaStig": 100,
+      "leikinn": true,
       "vollur": "Meistaravellir",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=195&season_id=132629&game_id=6156423",
       "okkarMegin": "gestir",
-      "andstaedingur": "KR/KV 11.fl.dr."
+      "andstaedingur": "KR/KV 11.fl.dr.",
+      "okkarStig": 100,
+      "andstaedingsStig": 86,
+      "sigur": true
     },
     {
       "leikId": "6156388",
@@ -408,5 +411,5 @@
       "andstaedingur": "ÍA 11.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-11-18T17:08:04.632Z"
+  "sidastBreytt": "2026-11-23T20:00:55.208Z"
 }
