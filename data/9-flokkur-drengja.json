@@ -134,8 +134,8 @@
     {
       "leikId": "6157020",
       "dags": "2026-11-27",
-      "timi": "20:15",
-      "iso": "2026-11-27T20:15:00+00:00",
+      "timi": "19:00",
+      "iso": "2026-11-27T19:00:00+00:00",
       "heima": "Haukar 9.fl.dr.",
       "heimaId": "20687",
       "gestir": "Laugdælir/Selfoss 9.fl.dr.",
@@ -348,5 +348,5 @@
       "andstaedingur": "Valur 9.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-11-22T16:08:37.750Z"
+  "sidastBreytt": "2026-11-24T19:32:49.465Z"
 }

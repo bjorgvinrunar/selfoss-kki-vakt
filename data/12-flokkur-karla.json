@@ -155,8 +155,8 @@
     {
       "leikId": "6159773",
       "dags": "2026-11-24",
-      "timi": "18:45",
-      "iso": "2026-11-24T18:45:00+00:00",
+      "timi": "20:45",
+      "iso": "2026-11-24T20:45:00+00:00",
       "heima": "Selfoss/Laugdælir 12.fl.kk.",
       "heimaId": "4749665",
       "gestir": "Njarðvík 12.fl.kk.",
@@ -387,5 +387,5 @@
       "andstaedingur": "KR/KV 12.fl.kk."
     }
   ],
-  "sidastBreytt": "2026-11-20T16:51:10.513Z"
+  "sidastBreytt": "2026-11-24T19:28:43.041Z"
 }

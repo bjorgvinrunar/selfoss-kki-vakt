@@ -587,21 +587,21 @@
           "sigur": false
         },
         {
-          "leikId": "6156221",
+          "leikId": "6156287",
           "dags": "2026-11-28",
-          "timi": "18:00",
-          "iso": "2026-11-28T18:00:00+00:00",
-          "heima": "Selfoss",
-          "heimaId": "4765539",
-          "gestir": "Keflavík b",
-          "gestaId": "4615465",
+          "timi": "17:00",
+          "iso": "2026-11-28T17:00:00+00:00",
+          "heima": "Keflavík b",
+          "heimaId": "4615465",
+          "gestir": "Selfoss",
+          "gestaId": "4765539",
           "urslit": "",
           "heimaStig": null,
           "gestaStig": null,
           "leikinn": false,
-          "vollur": "Vallaskóli",
-          "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=231&season_id=132570&game_id=6156221",
-          "okkarMegin": "heima",
+          "vollur": "Blue-höllin",
+          "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=231&season_id=132570&game_id=6156287",
+          "okkarMegin": "gestir",
           "andstaedingur": "Keflavík b"
         },
         {
@@ -767,21 +767,21 @@
           "andstaedingur": "Þór Ak."
         },
         {
-          "leikId": "6156287",
+          "leikId": "6156221",
           "dags": "2027-03-13",
           "timi": "18:00",
           "iso": "2027-03-13T18:00:00+00:00",
-          "heima": "Keflavík b",
-          "heimaId": "4615465",
-          "gestir": "Selfoss",
-          "gestaId": "4765539",
+          "heima": "Selfoss",
+          "heimaId": "4765539",
+          "gestir": "Keflavík b",
+          "gestaId": "4615465",
           "urslit": "",
           "heimaStig": null,
           "gestaStig": null,
           "leikinn": false,
-          "vollur": "Blue-höllin",
-          "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=231&season_id=132570&game_id=6156287",
-          "okkarMegin": "gestir",
+          "vollur": "Vallaskóli",
+          "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=231&season_id=132570&game_id=6156221",
+          "okkarMegin": "heima",
           "andstaedingur": "Keflavík b"
         },
         {
@@ -821,7 +821,7 @@
           "andstaedingur": "Aþena"
         }
       ],
-      "sidastBreytt": "2026-11-21T21:35:56.112Z"
+      "sidastBreytt": "2026-11-24T19:26:32.847Z"
     },
     {
       "slug": "selfoss-u",
@@ -1299,8 +1299,8 @@
         {
           "leikId": "6159773",
           "dags": "2026-11-24",
-          "timi": "18:45",
-          "iso": "2026-11-24T18:45:00+00:00",
+          "timi": "20:45",
+          "iso": "2026-11-24T20:45:00+00:00",
           "heima": "Selfoss/Laugdælir 12.fl.kk.",
           "heimaId": "4749665",
           "gestir": "Njarðvík 12.fl.kk.",
@@ -1531,7 +1531,7 @@
           "andstaedingur": "KR/KV 12.fl.kk."
         }
       ],
-      "sidastBreytt": "2026-11-20T16:51:10.513Z"
+      "sidastBreytt": "2026-11-24T19:28:43.041Z"
     },
     {
       "slug": "11-flokkur-drengja",
@@ -3224,8 +3224,8 @@
         {
           "leikId": "6157020",
           "dags": "2026-11-27",
-          "timi": "20:15",
-          "iso": "2026-11-27T20:15:00+00:00",
+          "timi": "19:00",
+          "iso": "2026-11-27T19:00:00+00:00",
           "heima": "Haukar 9.fl.dr.",
           "heimaId": "20687",
           "gestir": "Laugdælir/Selfoss 9.fl.dr.",
@@ -3438,7 +3438,7 @@
           "andstaedingur": "Valur 9.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-11-22T16:08:37.750Z"
+      "sidastBreytt": "2026-11-24T19:32:49.465Z"
     },
     {
       "slug": "9-flokkur-drengja-b",
@@ -3760,5 +3760,5 @@
       "sidastBreytt": "2026-11-22T16:09:19.453Z"
     }
   ],
-  "sidastBreytt": "2026-11-23T20:05:32.576Z"
+  "sidastBreytt": "2026-11-24T19:33:30.675Z"
 }
