@@ -161,14 +161,17 @@
       "heimaId": "4749665",
       "gestir": "Njarðvík 12.fl.kk.",
       "gestaId": "4749777",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "93 : 89",
+      "heimaStig": 93,
+      "gestaStig": 89,
+      "leikinn": true,
       "vollur": "Vallaskóli",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=192&season_id=132630&game_id=6159773",
       "okkarMegin": "heima",
-      "andstaedingur": "Njarðvík 12.fl.kk."
+      "andstaedingur": "Njarðvík 12.fl.kk.",
+      "okkarStig": 93,
+      "andstaedingsStig": 89,
+      "sigur": true
     },
     {
       "leikId": "6159752",
@@ -387,5 +390,5 @@
       "andstaedingur": "KR/KV 12.fl.kk."
     }
   ],
-  "sidastBreytt": "2026-11-24T19:28:43.041Z"
+  "sidastBreytt": "2026-11-25T01:22:54.265Z"
 }
