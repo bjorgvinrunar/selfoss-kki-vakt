@@ -153,24 +153,6 @@
       "sigur": true
     },
     {
-      "leikId": "6158924",
-      "dags": "2026-11-29",
-      "timi": "18:00",
-      "iso": "2026-11-29T18:00:00+00:00",
-      "heima": "Selfoss u",
-      "heimaId": "4772377",
-      "gestir": "KR b",
-      "gestaId": "4749781",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
-      "vollur": "Vallaskóli",
-      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=232&season_id=132677&game_id=6158924",
-      "okkarMegin": "heima",
-      "andstaedingur": "KR b"
-    },
-    {
       "leikId": "6158929",
       "dags": "2026-12-06",
       "timi": "16:00",
@@ -187,6 +169,24 @@
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=232&season_id=132677&game_id=6158929",
       "okkarMegin": "gestir",
       "andstaedingur": "Máni"
+    },
+    {
+      "leikId": "6158924",
+      "dags": "2026-12-10",
+      "timi": "20:00",
+      "iso": "2026-12-10T20:00:00+00:00",
+      "heima": "Selfoss u",
+      "heimaId": "4772377",
+      "gestir": "KR b",
+      "gestaId": "4749781",
+      "urslit": "",
+      "heimaStig": null,
+      "gestaStig": null,
+      "leikinn": false,
+      "vollur": "Vallaskóli",
+      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=232&season_id=132677&game_id=6158924",
+      "okkarMegin": "heima",
+      "andstaedingur": "KR b"
     },
     {
       "leikId": "6158893",
@@ -315,5 +315,5 @@
       "andstaedingur": "Fylkir"
     }
   ],
-  "sidastBreytt": "2026-11-22T21:45:08.260Z"
+  "sidastBreytt": "2026-11-26T18:15:39.132Z"
 }
