@@ -111,24 +111,6 @@
       "sigur": true
     },
     {
-      "leikId": "6157618",
-      "dags": "2026-11-29",
-      "timi": "15:00",
-      "iso": "2026-11-29T15:00:00+00:00",
-      "heima": "Selfoss 10.fl.st.",
-      "heimaId": "4772386",
-      "gestir": "Njarðvík b 10.fl.st.",
-      "gestaId": "4723149",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
-      "vollur": "Vallaskóli",
-      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=193&season_id=132628&game_id=6157618",
-      "okkarMegin": "heima",
-      "andstaedingur": "Njarðvík b 10.fl.st."
-    },
-    {
       "leikId": "6157613",
       "dags": "2026-12-08",
       "timi": "20:00",
@@ -163,6 +145,24 @@
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=193&season_id=132628&game_id=6157622",
       "okkarMegin": "heima",
       "andstaedingur": "Keflavík 10.fl.st."
+    },
+    {
+      "leikId": "6157618",
+      "dags": "2027-01-10",
+      "timi": "14:00",
+      "iso": "2027-01-10T14:00:00+00:00",
+      "heima": "Selfoss 10.fl.st.",
+      "heimaId": "4772386",
+      "gestir": "Njarðvík b 10.fl.st.",
+      "gestaId": "4723149",
+      "urslit": "",
+      "heimaStig": null,
+      "gestaStig": null,
+      "leikinn": false,
+      "vollur": "Vallaskóli",
+      "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=193&season_id=132628&game_id=6157618",
+      "okkarMegin": "heima",
+      "andstaedingur": "Njarðvík b 10.fl.st."
     },
     {
       "leikId": "6157586",
@@ -345,5 +345,5 @@
       "andstaedingur": "Keflavík 10.fl.st."
     }
   ],
-  "sidastBreytt": "2026-11-26T18:17:59.471Z"
+  "sidastBreytt": "2026-11-27T18:00:39.766Z"
 }
