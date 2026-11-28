@@ -182,14 +182,17 @@
       "heimaId": "4760773",
       "gestir": "Selfoss",
       "gestaId": "4695391",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "75 : 81",
+      "heimaStig": 75,
+      "gestaStig": 81,
+      "leikinn": true,
       "vollur": "Höllin Ak",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6154042",
       "okkarMegin": "gestir",
-      "andstaedingur": "Þór Ak."
+      "andstaedingur": "Þór Ak.",
+      "okkarStig": 81,
+      "andstaedingsStig": 75,
+      "sigur": true
     },
     {
       "leikId": "6153984",
@@ -426,5 +429,5 @@
       "andstaedingur": "KV"
     }
   ],
-  "sidastBreytt": "2026-11-20T23:02:23.654Z"
+  "sidastBreytt": "2026-11-28T00:27:08.509Z"
 }

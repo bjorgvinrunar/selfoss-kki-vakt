@@ -186,14 +186,17 @@
           "heimaId": "4760773",
           "gestir": "Selfoss",
           "gestaId": "4695391",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "75 : 81",
+          "heimaStig": 75,
+          "gestaStig": 81,
+          "leikinn": true,
           "vollur": "Höllin Ak",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=191&season_id=132571&game_id=6154042",
           "okkarMegin": "gestir",
-          "andstaedingur": "Þór Ak."
+          "andstaedingur": "Þór Ak.",
+          "okkarStig": 81,
+          "andstaedingsStig": 75,
+          "sigur": true
         },
         {
           "leikId": "6153984",
@@ -430,7 +433,7 @@
           "andstaedingur": "KV"
         }
       ],
-      "sidastBreytt": "2026-11-20T23:02:23.654Z"
+      "sidastBreytt": "2026-11-28T00:27:08.509Z"
     },
     {
       "slug": "mfl-kvenna",
@@ -3194,14 +3197,17 @@
           "heimaId": "20687",
           "gestir": "Laugdælir/Selfoss 9.fl.dr.",
           "gestaId": "4749736",
-          "urslit": "",
-          "heimaStig": null,
-          "gestaStig": null,
-          "leikinn": false,
+          "urslit": "74 : 52",
+          "heimaStig": 74,
+          "gestaStig": 52,
+          "leikinn": true,
           "vollur": "Ásvellir 2",
           "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6157020",
           "okkarMegin": "gestir",
-          "andstaedingur": "Haukar 9.fl.dr."
+          "andstaedingur": "Haukar 9.fl.dr.",
+          "okkarStig": 52,
+          "andstaedingsStig": 74,
+          "sigur": false
         },
         {
           "leikId": "6157000",
@@ -3402,7 +3408,7 @@
           "andstaedingur": "Valur 9.fl.dr."
         }
       ],
-      "sidastBreytt": "2026-11-24T19:32:49.465Z"
+      "sidastBreytt": "2026-11-28T00:34:10.265Z"
     },
     {
       "slug": "9-flokkur-drengja-b",
@@ -3706,5 +3712,5 @@
       "sidastBreytt": "2026-11-27T18:04:12.079Z"
     }
   ],
-  "sidastBreytt": "2026-11-27T18:04:12.121Z"
+  "sidastBreytt": "2026-11-28T00:34:51.904Z"
 }

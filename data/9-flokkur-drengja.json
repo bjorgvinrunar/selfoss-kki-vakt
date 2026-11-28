@@ -140,14 +140,17 @@
       "heimaId": "20687",
       "gestir": "Laugdælir/Selfoss 9.fl.dr.",
       "gestaId": "4749736",
-      "urslit": "",
-      "heimaStig": null,
-      "gestaStig": null,
-      "leikinn": false,
+      "urslit": "74 : 52",
+      "heimaStig": 74,
+      "gestaStig": 52,
+      "leikinn": true,
       "vollur": "Ásvellir 2",
       "slod": "https://kki.is/motamal/leikir-og-urslit/motayfirlit/Leikur?league_id=197&season_id=132625&game_id=6157020",
       "okkarMegin": "gestir",
-      "andstaedingur": "Haukar 9.fl.dr."
+      "andstaedingur": "Haukar 9.fl.dr.",
+      "okkarStig": 52,
+      "andstaedingsStig": 74,
+      "sigur": false
     },
     {
       "leikId": "6157000",
@@ -348,5 +351,5 @@
       "andstaedingur": "Valur 9.fl.dr."
     }
   ],
-  "sidastBreytt": "2026-11-24T19:32:49.465Z"
+  "sidastBreytt": "2026-11-28T00:34:10.265Z"
 }
